@@ -45,7 +45,7 @@ describe(`Should open ${baseUrl} and check`, function () {
     const loginBtn = await HomePage.loginBtn
     await loginBtn.waitAndClick()
     const loginTitle = await HomePage.loginTitle
-    await expect(loginTitle).toBeDisplayed()
+    await expect(loginTitle).toBeExisting()
     await expect(loginTitle).toHaveText(loginTitleText)
   })
   it(`successfull login with valid credentials`, async function () {
