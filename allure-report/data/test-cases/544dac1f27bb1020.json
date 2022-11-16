@@ -1,0 +1,62 @@
+{
+  "uid": "544dac1f27bb1020",
+  "name": "Main text each element's text corresponds '.'",
+  "fullName": "Should open Alquiler page and check.Main text each element's text corresponds '.'",
+  "historyId": "17db8da05acd9fe13500a07af76fc1eb",
+  "time": { "start": 1668636739738, "stop": 1668636739774, "duration": 36 },
+  "description": "",
+  "descriptionHtml": "",
+  "status": "passed",
+  "flaky": false,
+  "newFailed": false,
+  "newBroken": false,
+  "newPassed": false,
+  "retriesCount": 2,
+  "retriesStatusChange": false,
+  "beforeStages": [],
+  "afterStages": [],
+  "labels": [
+    { "name": "framework", "value": "wdio" },
+    { "name": "language", "value": "javascript" },
+    { "name": "thread", "value": "0-26" },
+    { "name": "suite", "value": "Should open Alquiler page and check" },
+    { "name": "testClass", "value": "Should open Alquiler page and check" },
+    {
+      "name": "testMethod",
+      "value": "Main text each element's text corresponds '.'"
+    },
+    { "name": "package", "value": "Should open Alquiler page and check" },
+    { "name": "resultFormat", "value": "allure1" }
+  ],
+  "parameters": [{ "name": "browser", "value": "chrome-107.0.5304.107" }],
+  "links": [],
+  "hidden": false,
+  "retry": false,
+  "extra": {
+    "severity": "normal",
+    "retries": [
+      {
+        "uid": "63f09d496f348667",
+        "status": "passed",
+        "time": {
+          "start": 1668636739643,
+          "stop": 1668636739675,
+          "duration": 32
+        }
+      },
+      {
+        "uid": "433b099866928138",
+        "status": "passed",
+        "time": {
+          "start": 1668636739580,
+          "stop": 1668636739612,
+          "duration": 32
+        }
+      }
+    ],
+    "categories": [],
+    "tags": []
+  },
+  "source": "544dac1f27bb1020.json",
+  "parameterValues": ["chrome-107.0.5304.107"]
+}

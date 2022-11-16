@@ -1,0 +1,49 @@
+{
+  "uid": "82da0b0464f0fd7e",
+  "name": "Grid search button on the Clasificaciones page is displayed",
+  "fullName": "Should open Clasificaciones page and check.Grid search button on the Clasificaciones page is displayed",
+  "historyId": "32319fbf27a8e4e194fcbc6e971ebffe",
+  "time": { "start": 1668636799518, "stop": 1668636799542, "duration": 24 },
+  "description": "",
+  "descriptionHtml": "",
+  "status": "passed",
+  "flaky": false,
+  "newFailed": false,
+  "newBroken": false,
+  "newPassed": false,
+  "retriesCount": 0,
+  "retriesStatusChange": false,
+  "beforeStages": [],
+  "afterStages": [],
+  "labels": [
+    { "name": "framework", "value": "wdio" },
+    { "name": "language", "value": "javascript" },
+    { "name": "thread", "value": "0-29" },
+    { "name": "suite", "value": "Should open Clasificaciones page and check" },
+    {
+      "name": "testClass",
+      "value": "Should open Clasificaciones page and check"
+    },
+    {
+      "name": "testMethod",
+      "value": "Grid search button on the Clasificaciones page is displayed"
+    },
+    {
+      "name": "package",
+      "value": "Should open Clasificaciones page and check"
+    },
+    { "name": "resultFormat", "value": "allure1" }
+  ],
+  "parameters": [{ "name": "browser", "value": "chrome-107.0.5304.107" }],
+  "links": [],
+  "hidden": false,
+  "retry": false,
+  "extra": {
+    "severity": "normal",
+    "retries": [],
+    "categories": [],
+    "tags": []
+  },
+  "source": "82da0b0464f0fd7e.json",
+  "parameterValues": ["chrome-107.0.5304.107"]
+}

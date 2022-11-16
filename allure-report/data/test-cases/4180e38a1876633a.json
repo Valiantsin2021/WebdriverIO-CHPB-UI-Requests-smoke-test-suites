@@ -1,0 +1,43 @@
+{
+  "uid": "4180e38a1876633a",
+  "name": "Top menu each inner dropdown element's text corresponds 'Equipos'",
+  "fullName": "Should open Albumes page and check.Top menu each inner dropdown element's text corresponds 'Equipos'",
+  "historyId": "da5cdddd54ed65e6b1024c71175a816d",
+  "time": { "start": 1668636722263, "stop": 1668636722304, "duration": 41 },
+  "description": "",
+  "descriptionHtml": "",
+  "status": "passed",
+  "flaky": false,
+  "newFailed": false,
+  "newBroken": false,
+  "newPassed": false,
+  "retriesCount": 0,
+  "retriesStatusChange": false,
+  "beforeStages": [],
+  "afterStages": [],
+  "labels": [
+    { "name": "framework", "value": "wdio" },
+    { "name": "language", "value": "javascript" },
+    { "name": "thread", "value": "0-25" },
+    { "name": "suite", "value": "Should open Albumes page and check" },
+    { "name": "testClass", "value": "Should open Albumes page and check" },
+    {
+      "name": "testMethod",
+      "value": "Top menu each inner dropdown element's text corresponds 'Equipos'"
+    },
+    { "name": "package", "value": "Should open Albumes page and check" },
+    { "name": "resultFormat", "value": "allure1" }
+  ],
+  "parameters": [{ "name": "browser", "value": "chrome-107.0.5304.107" }],
+  "links": [],
+  "hidden": false,
+  "retry": false,
+  "extra": {
+    "severity": "normal",
+    "retries": [],
+    "categories": [],
+    "tags": []
+  },
+  "source": "4180e38a1876633a.json",
+  "parameterValues": ["chrome-107.0.5304.107"]
+}

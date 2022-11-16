@@ -1,0 +1,49 @@
+{
+  "uid": "957e06bfdde55828",
+  "name": "Top menu each inner dropdown element's text corresponds 'App personalizada'",
+  "fullName": "Should open Clasificaciones page and check.Top menu each inner dropdown element's text corresponds 'App personalizada'",
+  "historyId": "af516da55f879207d2df3f50951a3f2a",
+  "time": { "start": 1668636797344, "stop": 1668636797381, "duration": 37 },
+  "description": "",
+  "descriptionHtml": "",
+  "status": "passed",
+  "flaky": false,
+  "newFailed": false,
+  "newBroken": false,
+  "newPassed": false,
+  "retriesCount": 0,
+  "retriesStatusChange": false,
+  "beforeStages": [],
+  "afterStages": [],
+  "labels": [
+    { "name": "framework", "value": "wdio" },
+    { "name": "language", "value": "javascript" },
+    { "name": "thread", "value": "0-29" },
+    { "name": "suite", "value": "Should open Clasificaciones page and check" },
+    {
+      "name": "testClass",
+      "value": "Should open Clasificaciones page and check"
+    },
+    {
+      "name": "testMethod",
+      "value": "Top menu each inner dropdown element's text corresponds 'App personalizada'"
+    },
+    {
+      "name": "package",
+      "value": "Should open Clasificaciones page and check"
+    },
+    { "name": "resultFormat", "value": "allure1" }
+  ],
+  "parameters": [{ "name": "browser", "value": "chrome-107.0.5304.107" }],
+  "links": [],
+  "hidden": false,
+  "retry": false,
+  "extra": {
+    "severity": "normal",
+    "retries": [],
+    "categories": [],
+    "tags": []
+  },
+  "source": "957e06bfdde55828.json",
+  "parameterValues": ["chrome-107.0.5304.107"]
+}

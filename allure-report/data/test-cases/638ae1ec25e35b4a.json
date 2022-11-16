@@ -1,0 +1,49 @@
+{
+  "uid": "638ae1ec25e35b4a",
+  "name": "Top menu each inner dropdown element's text corresponds 'Información'",
+  "fullName": "Should open Clases de Padel page and check.Top menu each inner dropdown element's text corresponds 'Información'",
+  "historyId": "7b830786da4ebf1a0b5a2754ab40edf9",
+  "time": { "start": 1668636768662, "stop": 1668636768704, "duration": 42 },
+  "description": "",
+  "descriptionHtml": "",
+  "status": "passed",
+  "flaky": false,
+  "newFailed": false,
+  "newBroken": false,
+  "newPassed": false,
+  "retriesCount": 0,
+  "retriesStatusChange": false,
+  "beforeStages": [],
+  "afterStages": [],
+  "labels": [
+    { "name": "framework", "value": "wdio" },
+    { "name": "language", "value": "javascript" },
+    { "name": "thread", "value": "0-28" },
+    { "name": "suite", "value": "Should open Clases de Padel page and check" },
+    {
+      "name": "testClass",
+      "value": "Should open Clases de Padel page and check"
+    },
+    {
+      "name": "testMethod",
+      "value": "Top menu each inner dropdown element's text corresponds 'Información'"
+    },
+    {
+      "name": "package",
+      "value": "Should open Clases de Padel page and check"
+    },
+    { "name": "resultFormat", "value": "allure1" }
+  ],
+  "parameters": [{ "name": "browser", "value": "chrome-107.0.5304.107" }],
+  "links": [],
+  "hidden": false,
+  "retry": false,
+  "extra": {
+    "severity": "normal",
+    "retries": [],
+    "categories": [],
+    "tags": []
+  },
+  "source": "638ae1ec25e35b4a.json",
+  "parameterValues": ["chrome-107.0.5304.107"]
+}

@@ -1,0 +1,46 @@
+{
+  "uid": "252292f45c6fd1fc",
+  "name": "Cookies modal is displayed",
+  "fullName": "Should open Clasificaciones page and check.Cookies modal is displayed",
+  "historyId": "542cd463aa818e2803b0a2780ea60e81",
+  "time": { "start": 1668636774459, "stop": 1668636783496, "duration": 9037 },
+  "description": "",
+  "descriptionHtml": "",
+  "status": "passed",
+  "flaky": false,
+  "newFailed": false,
+  "newBroken": false,
+  "newPassed": false,
+  "retriesCount": 0,
+  "retriesStatusChange": false,
+  "beforeStages": [],
+  "afterStages": [],
+  "labels": [
+    { "name": "framework", "value": "wdio" },
+    { "name": "language", "value": "javascript" },
+    { "name": "thread", "value": "0-29" },
+    { "name": "suite", "value": "Should open Clasificaciones page and check" },
+    {
+      "name": "testClass",
+      "value": "Should open Clasificaciones page and check"
+    },
+    { "name": "testMethod", "value": "Cookies modal is displayed" },
+    {
+      "name": "package",
+      "value": "Should open Clasificaciones page and check"
+    },
+    { "name": "resultFormat", "value": "allure1" }
+  ],
+  "parameters": [{ "name": "browser", "value": "chrome-107.0.5304.107" }],
+  "links": [],
+  "hidden": false,
+  "retry": false,
+  "extra": {
+    "severity": "normal",
+    "retries": [],
+    "categories": [],
+    "tags": []
+  },
+  "source": "252292f45c6fd1fc.json",
+  "parameterValues": ["chrome-107.0.5304.107"]
+}

@@ -1,0 +1,49 @@
+{
+  "uid": "5aba13ce8997c9a2",
+  "name": "Equipos names text corresponds 'BENJAMÍN FEMENINO'",
+  "fullName": "Should open Clasificaciones page and check.Equipos names text corresponds 'BENJAMÍN FEMENINO'",
+  "historyId": "5d4b7b7eac4e5515cb3d2f148ffed6f4",
+  "time": { "start": 1668636800082, "stop": 1668636800124, "duration": 42 },
+  "description": "",
+  "descriptionHtml": "",
+  "status": "passed",
+  "flaky": false,
+  "newFailed": false,
+  "newBroken": false,
+  "newPassed": false,
+  "retriesCount": 0,
+  "retriesStatusChange": false,
+  "beforeStages": [],
+  "afterStages": [],
+  "labels": [
+    { "name": "framework", "value": "wdio" },
+    { "name": "language", "value": "javascript" },
+    { "name": "thread", "value": "0-29" },
+    { "name": "suite", "value": "Should open Clasificaciones page and check" },
+    {
+      "name": "testClass",
+      "value": "Should open Clasificaciones page and check"
+    },
+    {
+      "name": "testMethod",
+      "value": "Equipos names text corresponds 'BENJAMÍN FEMENINO'"
+    },
+    {
+      "name": "package",
+      "value": "Should open Clasificaciones page and check"
+    },
+    { "name": "resultFormat", "value": "allure1" }
+  ],
+  "parameters": [{ "name": "browser", "value": "chrome-107.0.5304.107" }],
+  "links": [],
+  "hidden": false,
+  "retry": false,
+  "extra": {
+    "severity": "normal",
+    "retries": [],
+    "categories": [],
+    "tags": []
+  },
+  "source": "5aba13ce8997c9a2.json",
+  "parameterValues": ["chrome-107.0.5304.107"]
+}

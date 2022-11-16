@@ -1,0 +1,49 @@
+{
+  "uid": "a430d1e4f0c5ad70",
+  "name": "Image banners on the Clasificaciones page href attribute against 'https://www.rfeh.es , https://hockeyandalucia.es/ , https://www.grupopacopepe.com/'",
+  "fullName": "Should open Clasificaciones page and check.Image banners on the Clasificaciones page href attribute against 'https://www.rfeh.es , https://hockeyandalucia.es/ , https://www.grupopacopepe.com/'",
+  "historyId": "e9932c9bed0f34b05895117089d0140a",
+  "time": { "start": 1668636800686, "stop": 1668636800715, "duration": 29 },
+  "description": "",
+  "descriptionHtml": "",
+  "status": "passed",
+  "flaky": false,
+  "newFailed": false,
+  "newBroken": false,
+  "newPassed": false,
+  "retriesCount": 0,
+  "retriesStatusChange": false,
+  "beforeStages": [],
+  "afterStages": [],
+  "labels": [
+    { "name": "framework", "value": "wdio" },
+    { "name": "language", "value": "javascript" },
+    { "name": "thread", "value": "0-29" },
+    { "name": "suite", "value": "Should open Clasificaciones page and check" },
+    {
+      "name": "testClass",
+      "value": "Should open Clasificaciones page and check"
+    },
+    {
+      "name": "testMethod",
+      "value": "Image banners on the Clasificaciones page href attribute against 'https://www.rfeh.es , https://hockeyandalucia.es/ , https://www.grupopacopepe.com/'"
+    },
+    {
+      "name": "package",
+      "value": "Should open Clasificaciones page and check"
+    },
+    { "name": "resultFormat", "value": "allure1" }
+  ],
+  "parameters": [{ "name": "browser", "value": "chrome-107.0.5304.107" }],
+  "links": [],
+  "hidden": false,
+  "retry": false,
+  "extra": {
+    "severity": "normal",
+    "retries": [],
+    "categories": [],
+    "tags": []
+  },
+  "source": "a430d1e4f0c5ad70.json",
+  "parameterValues": ["chrome-107.0.5304.107"]
+}

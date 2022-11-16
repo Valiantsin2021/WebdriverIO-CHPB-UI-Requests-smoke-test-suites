@@ -1,0 +1,49 @@
+{
+  "uid": "6e0bc399f1980d0",
+  "name": "Clases de Padel page title is displayed",
+  "fullName": "Should open Clases de Padel page and check.Clases de Padel page title is displayed",
+  "historyId": "b4a9f9f73accdd2c49250603a611f805",
+  "time": { "start": 1668636767362, "stop": 1668636767390, "duration": 28 },
+  "description": "",
+  "descriptionHtml": "",
+  "status": "passed",
+  "flaky": false,
+  "newFailed": false,
+  "newBroken": false,
+  "newPassed": false,
+  "retriesCount": 0,
+  "retriesStatusChange": false,
+  "beforeStages": [],
+  "afterStages": [],
+  "labels": [
+    { "name": "framework", "value": "wdio" },
+    { "name": "language", "value": "javascript" },
+    { "name": "thread", "value": "0-28" },
+    { "name": "suite", "value": "Should open Clases de Padel page and check" },
+    {
+      "name": "testClass",
+      "value": "Should open Clases de Padel page and check"
+    },
+    {
+      "name": "testMethod",
+      "value": "Clases de Padel page title is displayed"
+    },
+    {
+      "name": "package",
+      "value": "Should open Clases de Padel page and check"
+    },
+    { "name": "resultFormat", "value": "allure1" }
+  ],
+  "parameters": [{ "name": "browser", "value": "chrome-107.0.5304.107" }],
+  "links": [],
+  "hidden": false,
+  "retry": false,
+  "extra": {
+    "severity": "normal",
+    "retries": [],
+    "categories": [],
+    "tags": []
+  },
+  "source": "6e0bc399f1980d0.json",
+  "parameterValues": ["chrome-107.0.5304.107"]
+}

@@ -1,0 +1,59 @@
+{
+  "uid": "b09307b1d801809d",
+  "name": "Home page club logotype is visible",
+  "fullName": "Should open https://www.chbenalmadena.com/es and check.Home page club logotype is visible",
+  "historyId": "d335ed634322d34b9fc3ba2433eff93",
+  "time": { "start": 1668639400026, "stop": 1668639400786, "duration": 760 },
+  "description": "",
+  "descriptionHtml": "",
+  "status": "passed",
+  "flaky": false,
+  "newFailed": false,
+  "newBroken": false,
+  "newPassed": false,
+  "retriesCount": 1,
+  "retriesStatusChange": false,
+  "beforeStages": [],
+  "afterStages": [],
+  "labels": [
+    { "name": "framework", "value": "wdio" },
+    { "name": "language", "value": "javascript" },
+    { "name": "thread", "value": "0-0" },
+    {
+      "name": "suite",
+      "value": "Should open https://www.chbenalmadena.com/es and check"
+    },
+    {
+      "name": "testClass",
+      "value": "Should open https://www.chbenalmadena.com/es and check"
+    },
+    { "name": "testMethod", "value": "Home page club logotype is visible" },
+    {
+      "name": "package",
+      "value": "Should open https://www.chbenalmadena.com/es and check"
+    },
+    { "name": "resultFormat", "value": "allure1" }
+  ],
+  "parameters": [{ "name": "browser", "value": "chrome-107.0.5304.107" }],
+  "links": [],
+  "hidden": false,
+  "retry": false,
+  "extra": {
+    "severity": "normal",
+    "retries": [
+      {
+        "uid": "ee3d622ca412a3a0",
+        "status": "passed",
+        "time": {
+          "start": 1668637622409,
+          "stop": 1668637622476,
+          "duration": 67
+        }
+      }
+    ],
+    "categories": [],
+    "tags": []
+  },
+  "source": "b09307b1d801809d.json",
+  "parameterValues": ["chrome-107.0.5304.107"]
+}

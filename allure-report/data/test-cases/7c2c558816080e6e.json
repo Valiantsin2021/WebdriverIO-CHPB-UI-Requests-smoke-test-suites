@@ -1,0 +1,40 @@
+{
+  "uid": "7c2c558816080e6e",
+  "name": "Main content links are displayed",
+  "fullName": "Should open Alquiler page and check.Main content links are displayed",
+  "historyId": "22e8f9a6f72add95b46a1ae992ce82a3",
+  "time": { "start": 1668636740402, "stop": 1668636740542, "duration": 140 },
+  "description": "",
+  "descriptionHtml": "",
+  "status": "passed",
+  "flaky": false,
+  "newFailed": false,
+  "newBroken": false,
+  "newPassed": false,
+  "retriesCount": 0,
+  "retriesStatusChange": false,
+  "beforeStages": [],
+  "afterStages": [],
+  "labels": [
+    { "name": "framework", "value": "wdio" },
+    { "name": "language", "value": "javascript" },
+    { "name": "thread", "value": "0-26" },
+    { "name": "suite", "value": "Should open Alquiler page and check" },
+    { "name": "testClass", "value": "Should open Alquiler page and check" },
+    { "name": "testMethod", "value": "Main content links are displayed" },
+    { "name": "package", "value": "Should open Alquiler page and check" },
+    { "name": "resultFormat", "value": "allure1" }
+  ],
+  "parameters": [{ "name": "browser", "value": "chrome-107.0.5304.107" }],
+  "links": [],
+  "hidden": false,
+  "retry": false,
+  "extra": {
+    "severity": "normal",
+    "retries": [],
+    "categories": [],
+    "tags": []
+  },
+  "source": "7c2c558816080e6e.json",
+  "parameterValues": ["chrome-107.0.5304.107"]
+}

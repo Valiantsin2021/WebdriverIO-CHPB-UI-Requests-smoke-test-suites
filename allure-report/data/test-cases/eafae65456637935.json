@@ -1,0 +1,52 @@
+{
+  "uid": "eafae65456637935",
+  "name": "Main text each element's text corresponds 'Avisos y promociones. Los usuarios reciben los avisos más importantes, deportivos y administrativos, así como los anuncios y promociones del club'",
+  "fullName": "Should open App personalizada page and check.Main text each element's text corresponds 'Avisos y promociones. Los usuarios reciben los avisos más importantes, deportivos y administrativos, así como los anuncios y promociones del club'",
+  "historyId": "761f0263ee242e3cb8dbbf685c7f1f1e",
+  "time": { "start": 1668636754508, "stop": 1668636754538, "duration": 30 },
+  "description": "",
+  "descriptionHtml": "",
+  "status": "passed",
+  "flaky": false,
+  "newFailed": false,
+  "newBroken": false,
+  "newPassed": false,
+  "retriesCount": 0,
+  "retriesStatusChange": false,
+  "beforeStages": [],
+  "afterStages": [],
+  "labels": [
+    { "name": "framework", "value": "wdio" },
+    { "name": "language", "value": "javascript" },
+    { "name": "thread", "value": "0-27" },
+    {
+      "name": "suite",
+      "value": "Should open App personalizada page and check"
+    },
+    {
+      "name": "testClass",
+      "value": "Should open App personalizada page and check"
+    },
+    {
+      "name": "testMethod",
+      "value": "Main text each element's text corresponds 'Avisos y promociones. Los usuarios reciben los avisos más importantes, deportivos y administrativos, así como los anuncios y promociones del club'"
+    },
+    {
+      "name": "package",
+      "value": "Should open App personalizada page and check"
+    },
+    { "name": "resultFormat", "value": "allure1" }
+  ],
+  "parameters": [{ "name": "browser", "value": "chrome-107.0.5304.107" }],
+  "links": [],
+  "hidden": false,
+  "retry": false,
+  "extra": {
+    "severity": "normal",
+    "retries": [],
+    "categories": [],
+    "tags": []
+  },
+  "source": "eafae65456637935.json",
+  "parameterValues": ["chrome-107.0.5304.107"]
+}

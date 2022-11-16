@@ -1,0 +1,43 @@
+{
+  "uid": "1cd6201bea276978",
+  "name": "Sponsor categories each element's text corresponds ''",
+  "fullName": "Should open Alquiler page and check.Sponsor categories each element's text corresponds ''",
+  "historyId": "585c038f75da76d91c1a121de092f2f2",
+  "time": { "start": 1668636740904, "stop": 1668636740932, "duration": 28 },
+  "description": "",
+  "descriptionHtml": "",
+  "status": "passed",
+  "flaky": false,
+  "newFailed": false,
+  "newBroken": false,
+  "newPassed": false,
+  "retriesCount": 0,
+  "retriesStatusChange": false,
+  "beforeStages": [],
+  "afterStages": [],
+  "labels": [
+    { "name": "framework", "value": "wdio" },
+    { "name": "language", "value": "javascript" },
+    { "name": "thread", "value": "0-26" },
+    { "name": "suite", "value": "Should open Alquiler page and check" },
+    { "name": "testClass", "value": "Should open Alquiler page and check" },
+    {
+      "name": "testMethod",
+      "value": "Sponsor categories each element's text corresponds ''"
+    },
+    { "name": "package", "value": "Should open Alquiler page and check" },
+    { "name": "resultFormat", "value": "allure1" }
+  ],
+  "parameters": [{ "name": "browser", "value": "chrome-107.0.5304.107" }],
+  "links": [],
+  "hidden": false,
+  "retry": false,
+  "extra": {
+    "severity": "normal",
+    "retries": [],
+    "categories": [],
+    "tags": []
+  },
+  "source": "1cd6201bea276978.json",
+  "parameterValues": ["chrome-107.0.5304.107"]
+}
