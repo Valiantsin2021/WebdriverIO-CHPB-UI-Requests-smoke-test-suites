@@ -1,0 +1,11 @@
+signup - last name
+
+no error messages and checks for:
+1. Max length (500 server error clicking "Crear cuenta" button
+2. Min length - 3 symbols
+3. Space in the beginning (allow register)
+4. Space in the end (allow register)
+5. Numbers (allow register)
+6. Special symbols (allow register)
+7. Non latin symbols (allow register)
+8. All spaces (allow register)

@@ -1,0 +1,7 @@
+contacto - message 
+
+no error messages and checks for:
+1. Max length
+2. Min length
+3. Non latin symbols
+4. All spaces

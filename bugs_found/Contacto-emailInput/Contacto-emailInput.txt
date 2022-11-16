@@ -1,0 +1,6 @@
+contacto email  
+
+no error messages and checks for:
+1. Max length
+2. Min length (s@1.co)
+3. Yes check for special symbols

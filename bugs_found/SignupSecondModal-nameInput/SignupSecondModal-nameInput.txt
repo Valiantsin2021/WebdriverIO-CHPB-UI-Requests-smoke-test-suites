@@ -1,0 +1,8 @@
+username :
+no error messages and checks for:
+1. Yes check min length 3
+2. Yes check for spaces(all)
+3. Yes check for special symbols(all)
+4. Yes check max length (20 symbols)
+
+error message with invalid username input overlays password input placeholder text

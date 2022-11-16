@@ -1,0 +1,8 @@
+contacto - phone: 
+
+no errors neither alert messages:
+
+1. Max length
+2. Min length
+3. Yes check for Numbers (but allow 'e' symbol in the beginning, inbetween and in the end)
+4. Wrong input element id - 'lastName'

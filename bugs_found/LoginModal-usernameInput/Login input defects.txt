@@ -1,0 +1,11 @@
+login - username 
+
+no error messages and checks for:
+1. Max length
+2. Min length
+3. Space in the beginning
+4. Space in the end
+5. Numbers
+6. Special symbols
+7. Non latin symbols
+8. All spaces

@@ -1,0 +1,15 @@
+Contact - name 
+
+no error messages and checks for:
+
+1. Max length
+2. Min length
+3. Space in the beginning (successfull sending message)
+4. Space in the end (successfull sending message)
+5. Numbers (successfull sending message)
+6. Special symbols (successfull sending message)
+7. Non latin symbols (successfull sending message)
+8. All spaces (successfull sending message)
+
+no error message neither result on click "Crear cuenta" button:
+trying signup with overlong name, lastname, no error message no success no any visual reaction

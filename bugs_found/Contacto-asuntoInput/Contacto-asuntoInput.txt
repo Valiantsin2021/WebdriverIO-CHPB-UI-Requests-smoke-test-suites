@@ -1,0 +1,11 @@
+contacto - asunto 
+
+no error messages and checks for:
+1. Yes Max length (200)
+2. Min length
+3. Space in the beginning
+4. Space in the end
+5. Numbers
+6. Special symbols
+7. Non latin symbols
+8. All spaces
