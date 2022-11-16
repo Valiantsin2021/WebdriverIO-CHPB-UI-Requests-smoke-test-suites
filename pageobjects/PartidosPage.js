@@ -18,8 +18,14 @@ class PartidosPage extends BasePage {
   get misPartidosLink() {
     return $('#mat-tab-link-1')
   }
+  get seccionDropdown() {
+    return $$('div.mat-select-arrow-wrapper')[0]
+  }
+  get dropdownSeccionNames() {
+    return $$('div[role="listbox"] > span span')
+  }
   get equiposDropdown() {
-    return $('div.mat-select-arrow-wrapper')
+    return $$('div.mat-select-arrow-wrapper')[1]
   }
   get dropdownEquiposNames() {
     return $$('div[role="listbox"] > span span')

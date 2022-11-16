@@ -3,6 +3,7 @@ module.exports = {
   cookiesAccept: 'Aceptar',
   cookiesConfig: 'Configurar',
   logoSize: '1400px',
+  loginTitleText: 'Accede a tu cuenta',
   clubHeader: 'Club de Hockey Benalmádena',
   email: 'hola@chbenalmadena.com',
   pass: 'yJLqV3wUCeudpY7',

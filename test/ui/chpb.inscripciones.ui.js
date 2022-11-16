@@ -4,7 +4,6 @@ const { showInnerMenu, hideInnerMenu } = require('../../utils/helper.js')
 const {
   clubHeader,
   footerLinksText,
-  bannersAttr,
   logoSize,
   sponsorCategoriesText,
   sponsorsNumber,
@@ -150,7 +149,7 @@ describe(`Should open Inscripciones page and check`, async function () {
   })
   it(`Inscripciones page dashboard is displayed`, async function () {
     console.info(`Inscripciones page dashboard is displayed`)
-    const dashboard = await InscripcionesPage.dashboard[0]
+    const dashboard = await InscripcionesPage.dashboard
     await expect(dashboard).toBeDisplayed()
   })
   it(`Inscripciones page dashboard title text is ${dashBoardTitleTxt}`, async function () {
@@ -163,12 +162,12 @@ describe(`Should open Inscripciones page and check`, async function () {
   })
   it(`Inscripciones page dashboard is displayed`, async function () {
     console.info(`Inscripciones page dashboard is displayed`)
-    const dashboardText = await InscripcionesPage.dashboardText
+    const dashboardText = await InscripcionesPage.dashboardText[1]
     await expect(dashboardText).toBeDisplayed()
   })
   it(`Inscripciones page dashboard text is ${dashboardTxt}`, async function () {
     console.info(`Check Inscripciones page dashboard text is '${dashboardTxt}'`)
-    const dashboard = await InscripcionesPage.dashboardText.waitAndGetText()
+    const dashboard = await InscripcionesPage.dashboardText[1].waitAndGetText()
     expectChai(dashboard).to.eq(dashboardTxt)
   })
   it(`Footer on the Home page is displayed`, async function () {

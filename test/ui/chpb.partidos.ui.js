@@ -27,7 +27,8 @@ const {
   leftPartidosNamesText,
   partidosBtnText,
   misPartidosText,
-  equiposDropdownText
+  equiposDropdownText,
+  seccionDropdownText
 } = require('../../utils/constants.partidos')
 describe(`Should open Partidos page and check`, async function () {
   before(async function () {
@@ -172,6 +173,19 @@ describe(`Should open Partidos page and check`, async function () {
       console.info(`Equipos dropdown each element text corresponds '${el}'`)
       const equiposNames = await PartidosPage.dropdownEquiposNames
       expectChai(await equiposNames[i].getText()).to.eq(el)
+    })
+  })
+  it(`Seccion Dropdown button is displayed`, async function () {
+    console.info(`Seccion Dropdown button is displayed`)
+    await expect(PartidosPage.seccionDropdown).toBeDisplayed()
+    await browser.keys('Escape')
+    await PartidosPage.seccionDropdown.click()
+  })
+  seccionDropdownText.forEach((el, i) => {
+    it(`Seccion dropdown each element text corresponds '${el}'`, async function () {
+      console.info(`Seccion dropdown each element text corresponds '${el}'`)
+      const seccionNames = await PartidosPage.dropdownSeccionNames
+      expectChai(await seccionNames[i].getText()).to.eq(el)
     })
   })
   it(`Week Nav Bar is displayed`, async function () {

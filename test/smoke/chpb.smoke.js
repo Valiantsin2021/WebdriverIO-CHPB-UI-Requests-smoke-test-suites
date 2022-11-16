@@ -5,7 +5,8 @@ const {
   baseUrl,
   clubHeader,
   cookiesAccept,
-  cookiesConfig
+  cookiesConfig,
+  loginTitleText
 } = require('../../utils/constants')
 describe(`Should open ${baseUrl} and check`, function () {
   it(`Home page open and loading progress circle is visible`, async function () {
@@ -45,6 +46,7 @@ describe(`Should open ${baseUrl} and check`, function () {
     await loginBtn.waitAndClick()
     const loginTitle = await HomePage.loginTitle
     await expect(loginTitle).toBeDisplayed()
+    await expect(loginTitle).toHaveText(loginTitleText)
   })
   it(`successfull login with valid credentials`, async function () {
     console.info(`successfull login with valid credentials`)

@@ -51,7 +51,7 @@ exports.config = {
 
   mochaOpts: {
     ui: 'bdd',
-    timeout: process.env.DEBUG === 'true' ? 999999 : 800000
+    timeout: process.env.DEBUG === 'true' ? 999999 : 900000
   },
 
   beforeSuite: function () {

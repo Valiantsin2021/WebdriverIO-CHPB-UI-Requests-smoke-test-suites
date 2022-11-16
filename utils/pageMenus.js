@@ -21,6 +21,7 @@ module.exports = {
     'Información',
     'Equipos',
     'Partidos',
+    'Circulares Competiciones',
     'Protocolo',
     'División de Honor B',
     '1ª División Masculina',
@@ -37,7 +38,7 @@ module.exports = {
     'Cuotas y contabilidad',
     'Documentación'
   ],
-  topMenuInnerElementsLength: 27,
+  topMenuInnerElementsLength: 28,
   socialMediaLinks: [
     'https://twitter.com/CHBenalmadena',
     'https://www.facebook.com/CHBenalmadena',

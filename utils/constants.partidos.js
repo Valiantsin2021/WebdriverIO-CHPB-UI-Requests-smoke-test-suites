@@ -7,6 +7,8 @@ module.exports = {
   misPartidosText: 'Mis partidos',
   equiposDropdownText: [
     'Ver todos',
+    'Cadete Masculino(Sala)',
+    'Cadete Femenino(Sala)',
     'RH Privé Benalmádena',
     '1° División Senior Femenino',
     '1ª División Senior Masculino',
@@ -22,6 +24,7 @@ module.exports = {
     'Máster Mixto',
     'Escuela Hockey'
   ],
+  seccionDropdownText: ['Ver todos', 'Hockey Hierba', 'Hockey Sala'],
   leftPartidosNamesText: [
     'RH PRIVÉ BENALMÁDENA',
     '1° DIVISIÓN SENIOR FEMENINO',

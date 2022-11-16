@@ -55,7 +55,7 @@ class DocumentacionPage extends BasePage {
     return $$('body img')
   }
   async open() {
-    await super.open('content/pages/11698')
+    await super.open('content/pages/11735')
   }
   async maximize() {
     await super.maximize()

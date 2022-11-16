@@ -1,10 +1,10 @@
 {
   "name": "CHPB WDIO",
   "version": "1.0.0",
-  "description": "End to end + negative login test of https://opensource-demo.orangehrmlive.com/",
+  "description": "UI / requests / smoke test of https://www.chbenalmadena.com/",
   "main": "index.js",
   "scripts": {
-    "test": "npm run wdio",
+    "test": "npm run clean && npm run wdio",
     "ui:chrome": "npm run clean && npx cross-env ENV=chrome npm run wdio -- --suite ui",
     "ui:edge": "npm run clean && npx cross-env ENV=edge npm run wdio -- --suite ui",
     "negative:chrome": "npm run clean && npx cross-env ENV=chrome npm run wdio -- --suite negative --logLevel warn",
@@ -15,7 +15,8 @@
     "run:github": "npm run clean && npm run wdio-headless -- --suite smoke && npm run wdio-headless -- --suite ui && npm run wdio-headless -- --suite requests",
     "clean": "rimraf allure-report && rimraf allure-results && rimraf screenshots/failed-tests/*",
     "wdio": "wdio run wdio.conf.js",
-    "wdio-headless": "wdio run wdio-github.conf.js"
+    "wdio-headless": "wdio run wdio-github.conf.js",
+    "prepare": "husky install"
   },
   "keywords": [
     "WebdriverIO"
@@ -33,12 +34,15 @@
     "axios": "^1.1.3",
     "chai": "^4.3.6",
     "cross-env": "^7.0.3",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-wdio": "^7.25.3",
+    "husky": "^8.0.0",
+    "prettier": "2.7.1",
+    "pretty-quick": "^3.1.3",
     "rimraf": "^3.0.2",
     "wdio-chromedriver-service": "^7.3.2",
     "wdio-edgedriver-service": "^1.2.0",
-    "wdio-geckodriver-service": "^3.0.4",
-    "eslint-config-prettier": "^8.5.0",
-    "eslint-plugin-prettier": "^4.2.1",
-    "prettier": "2.7.1"
+    "wdio-geckodriver-service": "^3.0.4"
   }
 }

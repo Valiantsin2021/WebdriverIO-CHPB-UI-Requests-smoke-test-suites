@@ -21,8 +21,6 @@ const {
 const {
   bannersLinks,
   title,
-  todasFotosText,
-  albumesText,
   compartirText
 } = require('../../utils/constants.videos')
 describe(`Should open Videos page and check`, async function () {

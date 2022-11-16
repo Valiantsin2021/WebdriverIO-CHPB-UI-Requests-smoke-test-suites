@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Git download') {
             steps {
-                git 'https://github.com/Valiantsin2021/WebdriverIO_CHBP_webapp.git'
+                git 'https://github.com/Valiantsin2021/WebdriverIO-CHPB-UI-Requests-smoke-test-suites'
             }
         }
         stage('Install') {
@@ -14,7 +14,7 @@ pipeline {
         }
         stage('Run UI/Functional positive/negative test suites with Chrome browser') {
             steps {
-                bat encoding: 'ASCII', returnStatus: true, script: 'npm run run:github'
+                bat encoding: 'ASCII', returnStatus: true, script: 'npm run wdio-headless'
             }
         }
         stage('Generate allure report') {

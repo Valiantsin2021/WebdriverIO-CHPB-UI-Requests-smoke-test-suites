@@ -1,16 +1,15 @@
 module.exports = {
   extends: [
     'plugin:prettier/recommended',
-    'eslint:recommended',
-    'plugin:chai-friendly/recommended',
-    'plugin:cypress/recommended'
+    'plugin:wdio/recommended',
+    'eslint:recommended'
   ],
-  plugins: ['cypress', 'prettier'],
+  plugins: ['prettier', 'wdio'],
   env: {
     browser: true,
     es6: true,
-    'cypress/globals': true,
-    node: true
+    node: true,
+    mocha: true
   },
   parserOptions: {
     ecmaVersion: 8
@@ -24,12 +23,6 @@ module.exports = {
         tabWidth: 2
       }
     ],
-    'cypress/no-assigning-return-values': 'error',
-    'cypress/no-unnecessary-waiting': 'error',
-    'cypress/assertion-before-screenshot': 'warn',
-    'cypress/no-force': 'warn',
-    'cypress/no-async-tests': 'error',
-    'cypress/no-pause': 'error',
     'no-console': 'off',
     'no-eval': 'error',
     'no-multi-spaces': 'error',

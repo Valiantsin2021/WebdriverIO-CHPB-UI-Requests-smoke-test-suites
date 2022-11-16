@@ -19,6 +19,9 @@ class HomePage extends BasePage {
   get loginBtn() {
     return $('button.user-topbar')
   }
+  get loginTitle() {
+    return $('span.clupik-dialog-title')
+  }
   get exitBtn() {
     return $('button.exit-button')
   }
