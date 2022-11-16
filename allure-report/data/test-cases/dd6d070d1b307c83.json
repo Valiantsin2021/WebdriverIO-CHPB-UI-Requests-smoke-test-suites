@@ -1,0 +1,43 @@
+{
+  "uid": "dd6d070d1b307c83",
+  "name": "Footer links text corresponds 'Política de cookies | '",
+  "fullName": "Should open Alquiler page and check.Footer links text corresponds 'Política de cookies | '",
+  "historyId": "13a0710e801d1c897fe5d1e479968eb4",
+  "time": { "start": 1668636740788, "stop": 1668636740815, "duration": 27 },
+  "description": "",
+  "descriptionHtml": "",
+  "status": "passed",
+  "flaky": false,
+  "newFailed": false,
+  "newBroken": false,
+  "newPassed": false,
+  "retriesCount": 0,
+  "retriesStatusChange": false,
+  "beforeStages": [],
+  "afterStages": [],
+  "labels": [
+    { "name": "framework", "value": "wdio" },
+    { "name": "language", "value": "javascript" },
+    { "name": "thread", "value": "0-26" },
+    { "name": "suite", "value": "Should open Alquiler page and check" },
+    { "name": "testClass", "value": "Should open Alquiler page and check" },
+    {
+      "name": "testMethod",
+      "value": "Footer links text corresponds 'Política de cookies | '"
+    },
+    { "name": "package", "value": "Should open Alquiler page and check" },
+    { "name": "resultFormat", "value": "allure1" }
+  ],
+  "parameters": [{ "name": "browser", "value": "chrome-107.0.5304.107" }],
+  "links": [],
+  "hidden": false,
+  "retry": false,
+  "extra": {
+    "severity": "normal",
+    "retries": [],
+    "categories": [],
+    "tags": []
+  },
+  "source": "dd6d070d1b307c83.json",
+  "parameterValues": ["chrome-107.0.5304.107"]
+}

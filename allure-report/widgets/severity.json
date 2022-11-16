@@ -1,0 +1,3501 @@
+[
+  {
+    "uid": "b1f2ed0bd057fc3a",
+    "name": "Top menu each inner dropdown element's text corresponds 'Equipos'",
+    "time": { "start": 1668636796863, "stop": 1668636796908, "duration": 45 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "c368c845beaea57c",
+    "name": "Main content links href attribute against 'https://www.facebook.com/escueladepadeldavidalcantara/ , https://www.instagram.com/escueladepadelalcantara/ , https://www.chbenalmadena.com/s/cc_images/teaserbox_65334168.jpeg?t=1654265578'",
+    "time": { "start": 1668636770160, "stop": 1668636770187, "duration": 27 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "c1a9be05c0b47c7d",
+    "name": "Top menu each inner dropdown element's text corresponds 'Protocolo'",
+    "time": { "start": 1668636768824, "stop": 1668636768865, "duration": 41 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "86ce8f711f0840e0",
+    "name": "Main text bold each element's text corresponds 'Horario de apertura'",
+    "time": { "start": 1668636740280, "stop": 1668636740307, "duration": 27 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "876a5d6df3ef653c",
+    "name": "Top menu each inner dropdown element's text corresponds '1ª División Femenina'",
+    "time": { "start": 1668636797148, "stop": 1668636797185, "duration": 37 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "5c868f5a59dba462",
+    "name": "Collect Entrenador Page images 'src' attributes and perform HTTP 'GET' requests on them validating the status code is 200",
+    "time": { "start": 1668636429435, "stop": 1668636437738, "duration": 8303 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "835c3d829025c7c2",
+    "name": "Main content links are displayed",
+    "time": { "start": 1668636754794, "stop": 1668636754929, "duration": 135 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "64ee7c73231ca74d",
+    "name": "Top menu each inner dropdown element's text corresponds 'Vídeos'",
+    "time": { "start": 1668636797464, "stop": 1668636797503, "duration": 39 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "5d745f82847ccfb6",
+    "name": "Top menu each inner dropdown element's text corresponds 'Contacto'",
+    "time": { "start": 1668636768438, "stop": 1668636768485, "duration": 47 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "607c97285db2b230",
+    "name": "Top menu each element's text corresponds 'Club'",
+    "time": { "start": 1668636737389, "stop": 1668636737418, "duration": 29 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "53593ace002aedc6",
+    "name": "Footer links text corresponds 'Condiciones de uso y aviso legal | '",
+    "time": { "start": 1668636800767, "stop": 1668636800795, "duration": 28 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "eebfdacb781e86b2",
+    "name": "Top menu each inner dropdown element's text corresponds 'Patrocinadores'",
+    "time": { "start": 1668636796528, "stop": 1668636796573, "duration": 45 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "744dab953aabb036",
+    "name": "Top menu number of elements",
+    "time": { "start": 1668636752334, "stop": 1668636752363, "duration": 29 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "3815e2bc7455617",
+    "name": "Top menu each inner dropdown element's text corresponds 'Cuotas y contabilidad'",
+    "time": { "start": 1668636797539, "stop": 1668636797578, "duration": 39 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "c04a9a76b9250141",
+    "name": "Top menu each inner dropdown element's text corresponds 'Cadete Femenino'",
+    "time": { "start": 1668636797185, "stop": 1668636797222, "duration": 37 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "45a869cc2ea71a08",
+    "name": "Top menu each inner dropdown element's text corresponds '1ª División Masculina'",
+    "time": { "start": 1668636753587, "stop": 1668636753627, "duration": 40 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "37dad5073c6047a4",
+    "name": "Top menu each inner dropdown element's text corresponds 'Álbumes'",
+    "time": { "start": 1668636722777, "stop": 1668636722819, "duration": 42 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "2ac22184e08730ec",
+    "name": "Top menu number of inner elements",
+    "time": { "start": 1668636737876, "stop": 1668636737927, "duration": 51 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "685cc885aad3dd80",
+    "name": "Main text bold is displayed",
+    "time": { "start": 1668636754592, "stop": 1668636754655, "duration": 63 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "641fa7ea3119ba44",
+    "name": "Main text is displayed",
+    "time": { "start": 1668636769557, "stop": 1668636769625, "duration": 68 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "dd80186d95e99ada",
+    "name": "Temporadas dropdown each element text corresponds '2021/2022'",
+    "time": { "start": 1668636797930, "stop": 1668636797964, "duration": 34 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "333b013d30184e4f",
+    "name": "Home page header is Club de Hockey Benalmádena",
+    "time": { "start": 1668637620588, "stop": 1668637622409, "duration": 1821 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "92a722b8350a7ea3",
+    "name": "Top menu each element's text corresponds 'Secciones'",
+    "time": { "start": 1668636795863, "stop": 1668636795893, "duration": 30 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "3384e1c1b5f6d819",
+    "name": "Sponsor categories each element's text corresponds ''",
+    "time": { "start": 1668636755265, "stop": 1668636755291, "duration": 26 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "b02020a4e1b2fd0f",
+    "name": "Top menu each inner dropdown element's text corresponds 'Alquiler Instalaciones'",
+    "time": { "start": 1668636753272, "stop": 1668636753313, "duration": 41 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "40d25cc75b42d00f",
+    "name": "Top menu each element's text corresponds 'Temporada'",
+    "time": { "start": 1668636721247, "stop": 1668636721276, "duration": 29 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "ab1130be595f6895",
+    "name": "Top menu each inner dropdown element's text corresponds 'Circulares Competiciones'",
+    "time": { "start": 1668636753438, "stop": 1668636753497, "duration": 59 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "c909f390589ca57f",
+    "name": "Top menu each element's text corresponds 'Clasificaciones'",
+    "time": { "start": 1668636795920, "stop": 1668636795947, "duration": 27 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "b973869b2d018820",
+    "name": "Top menu each inner dropdown element's text corresponds 'Vídeos'",
+    "time": { "start": 1668636722819, "stop": 1668636722855, "duration": 36 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "676eaa20421f78bf",
+    "name": "Sponsor categories each element's text corresponds 'Patrocinador Principal'",
+    "time": { "start": 1668636755207, "stop": 1668636755238, "duration": 31 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "8df44dcba499610b",
+    "name": "Top menu each inner dropdown element's text corresponds 'Instalaciones'",
+    "time": { "start": 1668636738011, "stop": 1668636738053, "duration": 42 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "b088677e9303075d",
+    "name": "Footer links text corresponds 'Protección de datos | '",
+    "time": { "start": 1668636723820, "stop": 1668636723845, "duration": 25 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "a5558b4ccee08ae2",
+    "name": "Collect Historia Page images 'src' attributes and perform HTTP 'GET' requests on them validating the status code is 200",
+    "time": { "start": 1668636472246, "stop": 1668636477580, "duration": 5334 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "fe28ed25cd34e83d",
+    "name": "Main text each element's text corresponds 'Contacto'",
+    "time": { "start": 1668636769736, "stop": 1668636769765, "duration": 29 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "83d3dd21f1686909",
+    "name": "Cookies modal is displayed",
+    "time": { "start": 1668636729380, "stop": 1668636734855, "duration": 5475 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "367ce3dc46aacc67",
+    "name": "Top menu each inner dropdown element's text corresponds 'Información'",
+    "time": { "start": 1668636753313, "stop": 1668636753352, "duration": 39 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "caee2d00ecb727cd",
+    "name": "Cookies accept button has text Configurar",
+    "time": { "start": 1668637620032, "stop": 1668637620587, "duration": 555 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "28cfe75004ffe2c3",
+    "name": "Top menu each element's text corresponds 'Oficina online'",
+    "time": { "start": 1668636737538, "stop": 1668636737567, "duration": 29 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "795c86c6f98be3be",
+    "name": "Top menu each inner dropdown element's text corresponds 'Historia'",
+    "time": { "start": 1668636752968, "stop": 1668636753010, "duration": 42 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "563fb7aaa33a5f3b",
+    "name": "Sponsor categories each element's text corresponds ''",
+    "time": { "start": 1668636723952, "stop": 1668636723978, "duration": 26 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "f24630500fa5908f",
+    "name": "Top menu each inner dropdown element's text corresponds 'Patrocinadores'",
+    "time": { "start": 1668636738053, "stop": 1668636738090, "duration": 37 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "1098af4e674d0da6",
+    "name": "Sponsor categories each element's text corresponds 'Patrocinadores Oficiales'",
+    "time": { "start": 1668636723927, "stop": 1668636723952, "duration": 25 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "2a30186a130c292e",
+    "name": "Top menu each inner dropdown element's text corresponds 'Documentación'",
+    "time": { "start": 1668636739097, "stop": 1668636739147, "duration": 50 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "aad5ad1d6d07237b",
+    "name": "Top menu each inner dropdown element's text corresponds 'Historia'",
+    "time": { "start": 1668636768309, "stop": 1668636768351, "duration": 42 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "46e002211dc72f8",
+    "name": "Top menu each inner dropdown element's text corresponds 'Cuotas y contabilidad'",
+    "time": { "start": 1668636754080, "stop": 1668636754117, "duration": 37 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "4d737b4c58ddadd3",
+    "name": "Main text each element's text corresponds 'reservas@chbenalmadena.com'",
+    "time": { "start": 1668636739907, "stop": 1668636739939, "duration": 32 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "86e7d9293effa775",
+    "name": "Image banners on the Home page are displayed",
+    "time": { "start": 1668636723637, "stop": 1668636723677, "duration": 40 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "84506d417d2f4dfc",
+    "name": "Equipos dropdown each element text corresponds 'Máster Mixto'",
+    "time": { "start": 1668636799367, "stop": 1668636799398, "duration": 31 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "6d52f344681865e3",
+    "name": "Main text bold each element's text corresponds 'Pistas de pádel'",
+    "time": { "start": 1668636740222, "stop": 1668636740251, "duration": 29 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "3eba6e77fafffa7",
+    "name": "Image banners have attribute 'data-sizes' equal to 'auto'",
+    "time": { "start": 1668636800653, "stop": 1668636800686, "duration": 33 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "87352a328a456978",
+    "name": "Top menu each inner dropdown element's text corresponds 'Instalaciones'",
+    "time": { "start": 1668636796483, "stop": 1668636796527, "duration": 44 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "f6b9d0fbb8a7c2ff",
+    "name": "Image banners have attribute 'data-sizes' equal to 'auto'",
+    "time": { "start": 1668636723677, "stop": 1668636723709, "duration": 32 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "78ba0ac80ef2e002",
+    "name": "Top menu each inner dropdown element's text corresponds 'Documentación'",
+    "time": { "start": 1668636769378, "stop": 1668636769422, "duration": 44 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "f23a94a4375c4f8d",
+    "name": "Top menu each inner dropdown element's text corresponds 'Clases Pádel'",
+    "time": { "start": 1668636753226, "stop": 1668636753272, "duration": 46 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "a301c88631a1b814",
+    "name": "Albumes page 'Compartir' button text is Compartir",
+    "time": { "start": 1668636720915, "stop": 1668636720958, "duration": 43 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "270832dd47a79a0",
+    "name": "Main text each element's text corresponds 'Multicanal. Envía la notificación por email y/o aplicación móvil, personaliza el contenido y la página de destino'",
+    "time": { "start": 1668636754451, "stop": 1668636754481, "duration": 30 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "f7a2a90cdb743c43",
+    "name": "Top menu each inner dropdown element's text corresponds 'Vídeos'",
+    "time": { "start": 1668636738962, "stop": 1668636739004, "duration": 42 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "5cce74c0c6ff18cb",
+    "name": "Sponsor categories each element's text corresponds ''",
+    "time": { "start": 1668636770521, "stop": 1668636770551, "duration": 30 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "ed914302da853e83",
+    "name": "Top menu each inner dropdown element's text corresponds 'Alquiler Instalaciones'",
+    "time": { "start": 1668636722177, "stop": 1668636722224, "duration": 47 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "553f02526eedfcd4",
+    "name": "Collect Protocolo Page links 'href' attributes and perform HTTP 'GET' requests on them validating the status code is 200",
+    "time": {
+      "start": 1668636619186,
+      "stop": 1668636642042,
+      "duration": 22856
+    },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "c561c94801565334",
+    "name": "Top menu number of inner elements",
+    "time": { "start": 1668636721740, "stop": 1668636721798, "duration": 58 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "e69d8e75f7364367",
+    "name": "Top menu each inner dropdown element's text corresponds 'Historia'",
+    "time": { "start": 1668636721849, "stop": 1668636721895, "duration": 46 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "a3bd732577627742",
+    "name": "Top menu inner elements are displayed",
+    "time": { "start": 1668636737567, "stop": 1668636737876, "duration": 309 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "fbb026ace999483a",
+    "name": "Image banners on the Home page are displayed",
+    "time": { "start": 1668636740567, "stop": 1668636740607, "duration": 40 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "8519af7ab84cb988",
+    "name": "Games Dashboard is displayed",
+    "time": { "start": 1668636799428, "stop": 1668636799451, "duration": 23 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "e2d9e1df48a7df2e",
+    "name": "Top menu each inner dropdown element's text corresponds 'Clases Pádel'",
+    "time": { "start": 1668636796718, "stop": 1668636796775, "duration": 57 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "8e8a2c8b6f522f5f",
+    "name": "Home page open and loading progress circle is visible",
+    "time": { "start": 1668637615351, "stop": 1668637617426, "duration": 2075 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "82aad3a5a12a8b97",
+    "name": "Top menu each inner dropdown element's text corresponds 'Información'",
+    "time": { "start": 1668636796822, "stop": 1668636796862, "duration": 40 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "a488d660781370f3",
+    "name": "Main text bold each element's text corresponds 'Sábados'",
+    "time": { "start": 1668636740340, "stop": 1668636740370, "duration": 30 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "432e3744dbde820c",
+    "name": "Sponsors list elements have attribute 'data-src' that contains 'https://api.clupik.com/clubs/7671/sponsor/image/'",
+    "time": { "start": 1668636770582, "stop": 1668636770656, "duration": 74 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "3eb871fb12b971df",
+    "name": "Home page club logotype is displayed",
+    "time": { "start": 1668636720958, "stop": 1668636720986, "duration": 28 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "2eeaae1ee19d1cf7",
+    "name": "Top menu each inner dropdown element's text corresponds 'Infantil (Femenino y Masculino)'",
+    "time": { "start": 1668636769064, "stop": 1668636769103, "duration": 39 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "6262889e82e7710a",
+    "name": "Image banners have attribute 'data-sizes' equal to 'auto'",
+    "time": { "start": 1668636754970, "stop": 1668636755004, "duration": 34 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "f84e757b854930c4",
+    "name": "Top menu number of inner elements",
+    "time": { "start": 1668636752874, "stop": 1668636752924, "duration": 50 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "9d3ade4cf3b107a8",
+    "name": "Sponsors list elements have attribute 'data-src' that contains 'https://api.clupik.com/clubs/7671/sponsor/image/'",
+    "time": { "start": 1668636724011, "stop": 1668636724086, "duration": 75 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "fbc55c8172bb1b56",
+    "name": "Main content links are displayed",
+    "time": { "start": 1668636740402, "stop": 1668636740542, "duration": 140 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "9b76ffb56601f178",
+    "name": "Top menu each inner dropdown element's text corresponds 'División de Honor B'",
+    "time": { "start": 1668636797049, "stop": 1668636797109, "duration": 60 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "cb1aeb8c51564f0f",
+    "name": "Main text bold each element's text corresponds 'David Alcántara'",
+    "time": { "start": 1668636769918, "stop": 1668636769946, "duration": 28 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "70d1cdbce66c615",
+    "name": "Collect Videos links 'href' attributes and perform HTTP 'GET' requests on them validating the status code is 200",
+    "time": {
+      "start": 1668636679271,
+      "stop": 1668636695636,
+      "duration": 16365
+    },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "1586ef67d97b8015",
+    "name": "Main text each element's text corresponds '- 1 Campo de césped artificial ideal para la práctica de '",
+    "time": { "start": 1668636739548, "stop": 1668636739580, "duration": 32 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "f5e773de6a259f2a",
+    "name": "Top menu each inner dropdown element's text corresponds 'Vídeos'",
+    "time": { "start": 1668636769265, "stop": 1668636769302, "duration": 37 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "831bf3a40bbfd7c5",
+    "name": "Equipos dropdown each element text corresponds 'RH Privé Benalmádena'",
+    "time": { "start": 1668636798655, "stop": 1668636799025, "duration": 370 },
+    "status": "failed",
+    "severity": "normal"
+  },
+  {
+    "uid": "4903171317403b1c",
+    "name": "Temporadas dropdown each element text corresponds '2017/2018'",
+    "time": { "start": 1668636798067, "stop": 1668636798104, "duration": 37 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "5db3a270aae37c6a",
+    "name": "Collect Contacto Page links 'href' attributes and perform HTTP 'GET' requests on them validating the status code is 200",
+    "time": {
+      "start": 1668636388805,
+      "stop": 1668636403400,
+      "duration": 14595
+    },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "8ac36cd3beb4619f",
+    "name": "Collect Alquiler Page images 'src' attributes and perform HTTP 'GET' requests on them validating the status code is 200",
+    "time": { "start": 1668636312238, "stop": 1668636320214, "duration": 7976 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "8709cd25ff3195e0",
+    "name": "Footer links text corresponds 'Club de Hockey Benalmádena'",
+    "time": { "start": 1668636800736, "stop": 1668636800767, "duration": 31 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "1317484668d5adb1",
+    "name": "Left grid stars on the Clasificaciones page are displayed",
+    "time": { "start": 1668636800446, "stop": 1668636800613, "duration": 167 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "c6f553936ad868f9",
+    "name": "Equipos names text corresponds 'RH PRIVÉ BENALMÁDENA'",
+    "time": { "start": 1668636799739, "stop": 1668636799772, "duration": 33 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "e84539f4b5aad7fb",
+    "name": "Top menu each inner dropdown element's text corresponds 'Circulares Competiciones'",
+    "time": { "start": 1668636722343, "stop": 1668636722382, "duration": 39 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "a04043915d3c6d1e",
+    "name": "Top menu each inner dropdown element's text corresponds '1ª División Masculina'",
+    "time": { "start": 1668636738562, "stop": 1668636738609, "duration": 47 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "f5141b2a43833642",
+    "name": "Top menu each inner dropdown element's text corresponds '1ª División Masculina'",
+    "time": { "start": 1668636797110, "stop": 1668636797148, "duration": 38 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "5c85cb482ab29ab7",
+    "name": "Collect Documentacion Page images 'src' attributes and perform HTTP 'GET' requests on them validating the status code is 200",
+    "time": { "start": 1668636411193, "stop": 1668636418291, "duration": 7098 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "c26b7976cf0e550d",
+    "name": "Collect Clasificaciones Page images 'src' attributes and perform HTTP 'GET' requests on them validating the status code is 200",
+    "time": { "start": 1668636374511, "stop": 1668636381883, "duration": 7372 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "dd6d070d1b307c83",
+    "name": "Footer links text corresponds 'Política de cookies | '",
+    "time": { "start": 1668636740788, "stop": 1668636740815, "duration": 27 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "f0fa39b238e7d63b",
+    "name": "Clasificaciones page title is displayed",
+    "time": { "start": 1668636794687, "stop": 1668636795610, "duration": 923 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "34a726d6ede9e333",
+    "name": "Top menu each inner dropdown element's text corresponds 'Partidos'",
+    "time": { "start": 1668636738376, "stop": 1668636738424, "duration": 48 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "b2c411cbd8af2848",
+    "name": "Left grid Partidos names on the Clasificaciones page are displayed",
+    "time": { "start": 1668636800297, "stop": 1668636800446, "duration": 149 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "aefb5b6b8ab0d273",
+    "name": "Top menu each inner dropdown element's text corresponds 'Infantil (Femenino y Masculino)'",
+    "time": { "start": 1668636722619, "stop": 1668636722660, "duration": 41 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "77d0ac5705dc8a4e",
+    "name": "Top social links href attribute against 'https://twitter.com/CHBenalmadena , https://www.facebook.com/CHBenalmadena , https://www.instagram.com/chbenalmadena/ , https://www.youtube.com/c/ClubHockeyBenalmadena'",
+    "time": { "start": 1668636723092, "stop": 1668636723133, "duration": 41 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "8d2dc6362ebc8893",
+    "name": "Sponsor categories each element's text corresponds 'Patrocinadores Oficiales'",
+    "time": { "start": 1668636740873, "stop": 1668636740904, "duration": 31 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "403a0637ab6e4130",
+    "name": "Top menu each inner dropdown element's text corresponds 'App personalizada'",
+    "time": { "start": 1668636753859, "stop": 1668636753902, "duration": 43 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "2f6dee13357a30b1",
+    "name": "Top menu each inner dropdown element's text corresponds 'Hockey'",
+    "time": { "start": 1668636796619, "stop": 1668636796670, "duration": 51 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "6afe1d68d8c12d1c",
+    "name": "Top menu each inner dropdown element's text corresponds 'Cadete Masculino'",
+    "time": { "start": 1668636738695, "stop": 1668636738741, "duration": 46 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "5ac3e56525166ccb",
+    "name": "Clasificaciones page header is Club de Hockey Benalmádena",
+    "time": {
+      "start": 1668636783497,
+      "stop": 1668636794687,
+      "duration": 11190
+    },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "b89e2a9f0d002739",
+    "name": "Main text bold each element's text corresponds ' '",
+    "time": { "start": 1668636769946, "stop": 1668636770001, "duration": 55 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "6cb3c0f882ad5610",
+    "name": "Top menu elements are displayed",
+    "time": { "start": 1668636737223, "stop": 1668636737360, "duration": 137 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "d901f93a9dd19fe6",
+    "name": "Collect Patrocinadores Page images 'src' attributes and perform HTTP 'GET' requests on them validating the status code is 200",
+    "time": { "start": 1668636603040, "stop": 1668636612839, "duration": 9799 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "fb698ae4df940a37",
+    "name": "Footer links text corresponds 'Condiciones de uso y aviso legal | '",
+    "time": { "start": 1668636770350, "stop": 1668636770377, "duration": 27 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "70b5265dec340cd4",
+    "name": "Equipos names text corresponds '1ª DIVISIÓN SENIOR MASCULINO'",
+    "time": { "start": 1668636799804, "stop": 1668636799838, "duration": 34 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "9522cd71341ca2b8",
+    "name": "Top menu each inner dropdown element's text corresponds 'Partidos'",
+    "time": { "start": 1668636796908, "stop": 1668636796959, "duration": 51 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "8b38f7b20450a71",
+    "name": "Top menu elements are displayed",
+    "time": { "start": 1668636767547, "stop": 1668636767639, "duration": 92 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "e4c88e6cffdd88a1",
+    "name": "Collect Equipos Page links 'href' attributes and perform HTTP 'GET' requests on them validating the status code is 200",
+    "time": {
+      "start": 1668636423880,
+      "stop": 1668636443340,
+      "duration": 19460
+    },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "39ac0a43b091c550",
+    "name": "Top menu each inner dropdown element's text corresponds 'Entrenador Personal'",
+    "time": { "start": 1668636722092, "stop": 1668636722136, "duration": 44 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "42a9ed9db6710c03",
+    "name": "Top menu each inner dropdown element's text corresponds 'Inscripciones'",
+    "time": { "start": 1668636797503, "stop": 1668636797539, "duration": 36 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "f039d8eb0d87067b",
+    "name": "Cookies accept button has text Aceptar",
+    "time": { "start": 1668637617474, "stop": 1668637620031, "duration": 2557 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "ae7275d2e9b27754",
+    "name": "Sponsor categories each element's text corresponds 'Patrocinadores Oficiales'",
+    "time": { "start": 1668636755238, "stop": 1668636755265, "duration": 27 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "ed2907966e99b609",
+    "name": "Clases de Padel page title is displayed",
+    "time": { "start": 1668636767362, "stop": 1668636767390, "duration": 28 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "4eb83dd2060e23c2",
+    "name": "Footer links text corresponds 'Club de Hockey Benalmádena'",
+    "time": { "start": 1668636755059, "stop": 1668636755092, "duration": 33 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "93d2b47a74e3777f",
+    "name": "Top menu each inner dropdown element's text corresponds 'Cadete Femenino'",
+    "time": { "start": 1668636722541, "stop": 1668636722583, "duration": 42 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "797f108a2e847fec",
+    "name": "Main text each element's text corresponds '610 74 61 22'",
+    "time": { "start": 1668636769765, "stop": 1668636769794, "duration": 29 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "606e11fcf955ff67",
+    "name": "Top menu each inner dropdown element's text corresponds 'Hockey'",
+    "time": { "start": 1668636722042, "stop": 1668636722092, "duration": 50 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "23d4ce4cf53f4a27",
+    "name": "Main text each element's text corresponds ' Hablamos de una de las mejores escuelas de la Costa del Sol para iniciarte o perfeccionar tu juego en el mundo del pádel bajo las directrices de '",
+    "time": { "start": 1668636769652, "stop": 1668636769681, "duration": 29 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "6084c1808916ee9a",
+    "name": "Main content links are displayed",
+    "time": { "start": 1668636770001, "stop": 1668636770160, "duration": 159 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "c851acf4331097f3",
+    "name": "Top menu each inner dropdown element's text corresponds '1ª División Femenina'",
+    "time": { "start": 1668636753627, "stop": 1668636753674, "duration": 47 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "983eee33d8135b62",
+    "name": "Top social links are displayed",
+    "time": { "start": 1668636769422, "stop": 1668636769497, "duration": 75 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "6843c5118b0d820d",
+    "name": "Equipos names text corresponds 'INFANTIL MASCULINO'",
+    "time": { "start": 1668636799977, "stop": 1668636800011, "duration": 34 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "2e18dddba54f5bbe",
+    "name": "Top menu each inner dropdown element's text corresponds 'Fotos'",
+    "time": { "start": 1668636797381, "stop": 1668636797426, "duration": 45 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "d6967776f674c883",
+    "name": "Temporadas dropdown each element text corresponds '2020/2021'",
+    "time": { "start": 1668636797964, "stop": 1668636797997, "duration": 33 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "1566fc735b35f3d4",
+    "name": "Albumes page title ia displayed",
+    "time": { "start": 1668636719120, "stop": 1668636719144, "duration": 24 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "935941fe6aa6905",
+    "name": "Top social links are displayed",
+    "time": { "start": 1668636722971, "stop": 1668636723066, "duration": 95 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "d6c3dbf561cd57ae",
+    "name": "Top menu each element's text corresponds 'Comunicación'",
+    "time": { "start": 1668636721322, "stop": 1668636721356, "duration": 34 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "4328f8a8cc2f1361",
+    "name": "Top menu each inner dropdown element's text corresponds 'Clases Pádel'",
+    "time": { "start": 1668636738215, "stop": 1668636738255, "duration": 40 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "54e9c9deb4b47069",
+    "name": "Top menu each inner dropdown element's text corresponds 'App personalizada'",
+    "time": { "start": 1668636722696, "stop": 1668636722738, "duration": 42 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "1d2c820a1647c491",
+    "name": "Albumes page 'Compartir' button is displayed",
+    "time": { "start": 1668636720884, "stop": 1668636720914, "duration": 30 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "70dab3bf8a78dfc3",
+    "name": "Collect Protocolo Page images 'src' attributes and perform HTTP 'GET' requests on them validating the status code is 200",
+    "time": { "start": 1668636642043, "stop": 1668636649057, "duration": 7014 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "42d87aa1e21f256f",
+    "name": "Collect App Personalizada Page images 'src' attributes and perform HTTP 'GET' requests on them validating the status code is 200",
+    "time": { "start": 1668636337870, "stop": 1668636344897, "duration": 7027 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "fbc43c0ffa375e07",
+    "name": "Top menu each element's text corresponds 'Comunicación'",
+    "time": { "start": 1668636737507, "stop": 1668636737537, "duration": 30 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "322b1ff4686c3248",
+    "name": "Top menu each inner dropdown element's text corresponds 'Cadete Femenino'",
+    "time": { "start": 1668636768981, "stop": 1668636769023, "duration": 42 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "a363211dcb3977e1",
+    "name": "Top menu each inner dropdown element's text corresponds 'Circulares Competiciones'",
+    "time": { "start": 1668636796959, "stop": 1668636797000, "duration": 41 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "90052c7b654ad981",
+    "name": "Main text each element's text corresponds '- 2 '",
+    "time": { "start": 1668636739675, "stop": 1668636739706, "duration": 31 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "d208083061ce1e97",
+    "name": "Top menu each inner dropdown element's text corresponds 'Cuotas y contabilidad'",
+    "time": { "start": 1668636769343, "stop": 1668636769378, "duration": 35 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "808ae16c023d7fae",
+    "name": "Top menu each inner dropdown element's text corresponds 'Entrenador Personal'",
+    "time": { "start": 1668636753169, "stop": 1668636753226, "duration": 57 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "2efea70e3c32f33f",
+    "name": "Equipos names on the Clasificaciones page are displayed",
+    "time": { "start": 1668636799542, "stop": 1668636799739, "duration": 197 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "95333f5d22cd04ae",
+    "name": "Top menu each inner dropdown element's text corresponds 'Máster Mixto'",
+    "time": { "start": 1668636769103, "stop": 1668636769145, "duration": 42 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "1545a2cbdce86ae3",
+    "name": "Alquiler page title is Alquiler",
+    "time": { "start": 1668636737117, "stop": 1668636737180, "duration": 63 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "15dbf85bbb78359f",
+    "name": "Main text is displayed",
+    "time": { "start": 1668636739307, "stop": 1668636739482, "duration": 175 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "d2f71213eb8341b6",
+    "name": "Sponsor categories each element's text corresponds ''",
+    "time": { "start": 1668636800932, "stop": 1668636800961, "duration": 29 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "9c1109c44698e39d",
+    "name": "Albumes page 'Álbumes' button is displayed",
+    "time": { "start": 1668636720788, "stop": 1668636720812, "duration": 24 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "465f2e9ba12761f",
+    "name": "Top menu each inner dropdown element's text corresponds 'Cadete Femenino'",
+    "time": { "start": 1668636738653, "stop": 1668636738695, "duration": 42 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "c77300adf1185a75",
+    "name": "Footer links text corresponds 'Configuración de cookies'",
+    "time": { "start": 1668636800849, "stop": 1668636800878, "duration": 29 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "171e5c20520d7e10",
+    "name": "Main text each element's text corresponds '- 2 Campos de césped artificial para '",
+    "time": { "start": 1668636739612, "stop": 1668636739643, "duration": 31 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "79c48300dfda90e4",
+    "name": "Main text each element's text corresponds '- 1 '",
+    "time": { "start": 1668636739775, "stop": 1668636739808, "duration": 33 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "30b2616911a2ea5",
+    "name": "Equipos names text corresponds 'ALEVÍN FEMENINO'",
+    "time": { "start": 1668636800011, "stop": 1668636800046, "duration": 35 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "aee42c5ca06b64e2",
+    "name": "Main text each element's text corresponds ' con dos porterías.'",
+    "time": { "start": 1668636739808, "stop": 1668636739842, "duration": 34 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "5a2193aba7e9db51",
+    "name": "Temporadas dropdown each element text corresponds '2019/2020'",
+    "time": { "start": 1668636797997, "stop": 1668636798033, "duration": 36 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "ff2e4a7b51e40734",
+    "name": "Top menu inner elements are displayed",
+    "time": { "start": 1668636752561, "stop": 1668636752874, "duration": 313 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "db75d1fb694c4a3d",
+    "name": "Main text is displayed",
+    "time": { "start": 1668636754316, "stop": 1668636754394, "duration": 78 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "8f8e2ac030029660",
+    "name": "Main text bold each element's text corresponds 'Personalizable'",
+    "time": { "start": 1668636754682, "stop": 1668636754711, "duration": 29 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "7f36457a44acc058",
+    "name": "Top menu each inner dropdown element's text corresponds 'Protocolo'",
+    "time": { "start": 1668636722382, "stop": 1668636722424, "duration": 42 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "bb950f7fc66e520c",
+    "name": "Top menu each element's text corresponds 'Clasificaciones'",
+    "time": { "start": 1668636767753, "stop": 1668636767782, "duration": 29 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "ee57b4f0b096a885",
+    "name": "Sub header on the Clasificaciones page is displayed",
+    "time": { "start": 1668636799451, "stop": 1668636799474, "duration": 23 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "c0abfb20b45e330b",
+    "name": "Footer links text corresponds 'Protección de datos | '",
+    "time": { "start": 1668636755121, "stop": 1668636755150, "duration": 29 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "5f6611dad45766c2",
+    "name": "Collect Home Page links 'href' attributes and perform HTTP 'GET' requests on them validating the status code is 200",
+    "time": {
+      "start": 1668636483949,
+      "stop": 1668636542676,
+      "duration": 58727
+    },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "df9f219f66f304ae",
+    "name": "Temporadas dropdown each element text corresponds '2018/2019'",
+    "time": { "start": 1668636798033, "stop": 1668636798067, "duration": 34 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "5b71817b15e625b",
+    "name": "Collect Instalaciones Page images 'src' attributes and perform HTTP 'GET' requests on them validating the status code is 200",
+    "time": { "start": 1668636557421, "stop": 1668636565524, "duration": 8103 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "adf097108baed04f",
+    "name": "Collect Contacto Page images 'src' attributes and perform HTTP 'GET' requests on them validating the status code is 200",
+    "time": { "start": 1668636403400, "stop": 1668636410311, "duration": 6911 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "fc0cb3808e93c304",
+    "name": "Main text each element's text corresponds '.'",
+    "time": { "start": 1668636739738, "stop": 1668636739774, "duration": 36 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "2c9f3618600f954b",
+    "name": "App personalizada page header is Club de Hockey Benalmádena",
+    "time": { "start": 1668636749867, "stop": 1668636751911, "duration": 2044 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "5ca94715fefd9297",
+    "name": "Equipos names text corresponds 'BENJAMÍN MASCULINO'",
+    "time": { "start": 1668636800124, "stop": 1668636800175, "duration": 51 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "76565c4e81ece856",
+    "name": "Top menu each element's text corresponds 'Club'",
+    "time": { "start": 1668636795834, "stop": 1668636795863, "duration": 29 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "e31e603bb0c0ddfb",
+    "name": "Main text each element's text corresponds ' (Entrenador Nacional de Pádel).'",
+    "time": { "start": 1668636769681, "stop": 1668636769709, "duration": 28 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "4b29f643edb5257d",
+    "name": "Collect Fotos images 'src' attributes and perform HTTP 'GET' requests on them validating the status code is 200",
+    "time": {
+      "start": 1668636460787,
+      "stop": 1668636474196,
+      "duration": 13409
+    },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "4069d07c2ad79548",
+    "name": "Top menu each inner dropdown element's text corresponds 'Álbumes'",
+    "time": { "start": 1668636738920, "stop": 1668636738962, "duration": 42 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "d14b41627ef00ecc",
+    "name": "Equipos dropdown each element text corresponds '1ª División Senior Masculino'",
+    "time": { "start": 1668636799057, "stop": 1668636799090, "duration": 33 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "fb4b2ec4b17ea514",
+    "name": "Sponsor categories each element's text corresponds 'Patrocinador Principal'",
+    "time": { "start": 1668636740841, "stop": 1668636740873, "duration": 32 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "cdfe0bd80b56ef6f",
+    "name": "Top menu elements are displayed",
+    "time": { "start": 1668636752208, "stop": 1668636752334, "duration": 126 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "68aed6b82b8e6665",
+    "name": "Equipos names text corresponds 'ALEVÍN MASCULINO'",
+    "time": { "start": 1668636800046, "stop": 1668636800082, "duration": 36 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "7c94047915246aa8",
+    "name": "Main text bold each element's text corresponds 'Patrocinadores'",
+    "time": { "start": 1668636754739, "stop": 1668636754766, "duration": 27 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "36b5a5e730751abf",
+    "name": "Sponsors list elements have attribute 'data-src' that contains 'https://api.clupik.com/clubs/7671/sponsor/image/'",
+    "time": { "start": 1668636800995, "stop": 1668636801069, "duration": 74 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "2410d787d3191e4d",
+    "name": "Equipos dropdown each element text corresponds 'Alevín Masculino'",
+    "time": { "start": 1668636799278, "stop": 1668636799307, "duration": 29 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "5b26f919f41a03d8",
+    "name": "Top menu each element's text corresponds 'Secciones'",
+    "time": { "start": 1668636721207, "stop": 1668636721247, "duration": 40 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "35bc9a5d4eee3a2d",
+    "name": "Top menu each inner dropdown element's text corresponds 'Vídeos'",
+    "time": { "start": 1668636753990, "stop": 1668636754033, "duration": 43 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "d62ea03450615f6d",
+    "name": "Main text each element's text corresponds 'de 9:00 a 13:00 y de 16:00 a 23:00'",
+    "time": { "start": 1668636739939, "stop": 1668636739974, "duration": 35 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "3ce01dcaf544eccd",
+    "name": "Albumes page 'Todas las fotos' button text is Todas las fotos",
+    "time": { "start": 1668636720745, "stop": 1668636720788, "duration": 43 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "7934f50b6e7a6e76",
+    "name": "Albumes page 'Todas las fotos' button is displayed",
+    "time": { "start": 1668636719186, "stop": 1668636720745, "duration": 1559 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "fce7efc7db0a55df",
+    "name": "Collect Instalaciones Page links 'href' attributes and perform HTTP 'GET' requests on them validating the status code is 200",
+    "time": {
+      "start": 1668636544058,
+      "stop": 1668636557420,
+      "duration": 13362
+    },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "890e76bfc50d04d8",
+    "name": "successfull logout",
+    "time": { "start": 1668637626782, "stop": 1668637626819, "duration": 37 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "652704fd58a59244",
+    "name": "Clases de Padel page header is Club de Hockey Benalmádena",
+    "time": { "start": 1668636764735, "stop": 1668636767362, "duration": 2627 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "15a2aeec3a009b36",
+    "name": "click on login button and check login modal is visible",
+    "time": { "start": 1668637622476, "stop": 1668637622841, "duration": 365 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "d8e584fabffe361a",
+    "name": "Collect Historia Page links 'href' attributes and perform HTTP 'GET' requests on them validating the status code is 200",
+    "time": {
+      "start": 1668636458896,
+      "stop": 1668636472246,
+      "duration": 13350
+    },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "c3272a5c82cae9e5",
+    "name": "Top menu number of elements",
+    "time": { "start": 1668636721144, "stop": 1668636721178, "duration": 34 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "3a597aa66dc3037b",
+    "name": "Top menu each element's text corresponds 'Oficina online'",
+    "time": { "start": 1668636721356, "stop": 1668636721384, "duration": 28 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "cb2f68ff7e86ca68",
+    "name": "Temporadas dropdown each element text corresponds '2007/2008'",
+    "time": { "start": 1668636798405, "stop": 1668636798442, "duration": 37 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "2b7bd45699aeb63d",
+    "name": "Image banners on the Home page href attribute against 'https://play.google.com/store/apps/details?id=io.clupik.chpbenalmadena , https://www.malaga.es/ , https://www.juntadeandalucia.es/turismoydeporte/opencms/'",
+    "time": { "start": 1668636770263, "stop": 1668636770295, "duration": 32 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "ae6543c7886edf32",
+    "name": "Sponsors list number of elements is 9",
+    "time": { "start": 1668636723979, "stop": 1668636724011, "duration": 32 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "23fa2d8787f48677",
+    "name": "Collect Signup modal links 'href' attributes and perform HTTP 'GET' requests on them validating the status code is 200",
+    "time": { "start": 1668636580080, "stop": 1668636582235, "duration": 2155 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "88ca2ef36dddacee",
+    "name": "Top menu each inner dropdown element's text corresponds 'Patrocinadores'",
+    "time": { "start": 1668636721943, "stop": 1668636721992, "duration": 49 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "81d33cd291f4a9ab",
+    "name": "Sponsors list elements have attribute 'data-src' that contains 'https://api.clupik.com/clubs/7671/sponsor/image/'",
+    "time": { "start": 1668636755324, "stop": 1668636755410, "duration": 86 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "3f309fb54815ae52",
+    "name": "Temporadas dropdown each element text corresponds '2022/2023'",
+    "time": { "start": 1668636797889, "stop": 1668636797930, "duration": 41 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "80bb66cc8a3b8f39",
+    "name": "Sponsor categories each element's text corresponds 'Patrocinadores Oficiales'",
+    "time": { "start": 1668636800906, "stop": 1668636800932, "duration": 26 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "8a76d63e21602a31",
+    "name": "Top menu each element's text corresponds 'Oficina online'",
+    "time": { "start": 1668636767811, "stop": 1668636767840, "duration": 29 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "79863ae60093691",
+    "name": "Top menu each inner dropdown element's text corresponds 'App personalizada'",
+    "time": { "start": 1668636797344, "stop": 1668636797381, "duration": 37 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "fc13b4debde791d9",
+    "name": "Main text each element's text corresponds 'Gestión inteligente'",
+    "time": { "start": 1668636754538, "stop": 1668636754565, "duration": 27 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "70a06ad7f8d8be2c",
+    "name": "Alquiler page title is displayed",
+    "time": { "start": 1668636737024, "stop": 1668636737117, "duration": 93 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "3e3824d9faacd9ae",
+    "name": "Collect Documentacion Page links 'href' attributes and perform HTTP 'GET' requests on them validating the status code is 200",
+    "time": {
+      "start": 1668636393831,
+      "stop": 1668636411192,
+      "duration": 17361
+    },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "3037397aa68dfc15",
+    "name": "Footer on the Home page is displayed",
+    "time": { "start": 1668636755035, "stop": 1668636755059, "duration": 24 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "c92c28d0edf1ef5c",
+    "name": "Top menu each element's text corresponds 'Secciones'",
+    "time": { "start": 1668636767696, "stop": 1668636767724, "duration": 28 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "50e9808dc73afb4",
+    "name": "Collect Temporada Page images 'src' attributes and perform HTTP 'GET' requests on them validating the status code is 200",
+    "time": { "start": 1668636670369, "stop": 1668636674967, "duration": 4598 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "b3b39d9a19706e0e",
+    "name": "Footer links text corresponds 'Club de Hockey Benalmádena'",
+    "time": { "start": 1668636770318, "stop": 1668636770350, "duration": 32 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "348755e1071e6ea",
+    "name": "Cookies modal is displayed",
+    "time": { "start": 1668636709319, "stop": 1668636716300, "duration": 6981 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "ff6b13488bdd5d7f",
+    "name": "Top social links number of elements",
+    "time": { "start": 1668636754259, "stop": 1668636754281, "duration": 22 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "dabe8272c0473bc2",
+    "name": "App personalizada page subheaders are displayed",
+    "time": { "start": 1668636751911, "stop": 1668636751937, "duration": 26 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "4df10ef6a01a7a",
+    "name": "successfull login with valid credentials",
+    "time": { "start": 1668637622841, "stop": 1668637626782, "duration": 3941 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "70580dbc40718752",
+    "name": "Footer on the Clasificaciones page is displayed",
+    "time": { "start": 1668636800715, "stop": 1668636800736, "duration": 21 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "51811b59af7a54e4",
+    "name": "Footer on the Home page is displayed",
+    "time": { "start": 1668636770295, "stop": 1668636770318, "duration": 23 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "ee726117ade2d677",
+    "name": "Main text bold is displayed",
+    "time": { "start": 1668636769794, "stop": 1668636769866, "duration": 72 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "77d294ef245f4dac",
+    "name": "App personalizada page title is Comunicación directa",
+    "time": { "start": 1668636752094, "stop": 1668636752133, "duration": 39 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "76a12e231525e9ec",
+    "name": "Top social links href attribute against 'https://twitter.com/CHBenalmadena , https://www.facebook.com/CHBenalmadena , https://www.instagram.com/chbenalmadena/ , https://www.youtube.com/c/ClubHockeyBenalmadena'",
+    "time": { "start": 1668636739265, "stop": 1668636739307, "duration": 42 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "bd64d8d124fd8aa3",
+    "name": "Top menu each inner dropdown element's text corresponds 'Inicio'",
+    "time": { "start": 1668636796396, "stop": 1668636796441, "duration": 45 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "9a7693bee1923366",
+    "name": "Top menu each inner dropdown element's text corresponds 'Historia'",
+    "time": { "start": 1668636796441, "stop": 1668636796483, "duration": 42 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "7414817226643530",
+    "name": "Collect Clasificaciones Page links 'href' attributes and perform HTTP 'GET' requests on them validating the status code is 200",
+    "time": {
+      "start": 1668636348819,
+      "stop": 1668636374511,
+      "duration": 25692
+    },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "27f64df2e7f34392",
+    "name": "Top menu each inner dropdown element's text corresponds 'Protocolo'",
+    "time": { "start": 1668636797000, "stop": 1668636797049, "duration": 49 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "fb67613ad3b764a7",
+    "name": "Footer links text corresponds 'Configuración de cookies'",
+    "time": { "start": 1668636770439, "stop": 1668636770465, "duration": 26 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "c0028214dfbe7304",
+    "name": "Top menu each inner dropdown element's text corresponds 'Cuotas y contabilidad'",
+    "time": { "start": 1668636722893, "stop": 1668636722933, "duration": 40 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "7c758c9e08c50ab4",
+    "name": "Top menu each element's text corresponds 'Secciones'",
+    "time": { "start": 1668636752412, "stop": 1668636752444, "duration": 32 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "7b5c48c4511f734f",
+    "name": "Top menu each inner dropdown element's text corresponds 'Máster Mixto'",
+    "time": { "start": 1668636738782, "stop": 1668636738829, "duration": 47 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "b4c73a791ac1a734",
+    "name": "Footer links text corresponds 'Política de cookies | '",
+    "time": { "start": 1668636723845, "stop": 1668636723872, "duration": 27 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "8ae1e1ce6e8fd731",
+    "name": "Top menu each inner dropdown element's text corresponds 'Contacto'",
+    "time": { "start": 1668636738090, "stop": 1668636738135, "duration": 45 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "4bd6b22bbc25dfae",
+    "name": "Top menu each inner dropdown element's text corresponds 'Información'",
+    "time": { "start": 1668636722225, "stop": 1668636722262, "duration": 37 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "c2b7a07ba18ed0e6",
+    "name": "Top menu each inner dropdown element's text corresponds 'Infantil (Femenino y Masculino)'",
+    "time": { "start": 1668636738741, "stop": 1668636738782, "duration": 41 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "bc904ea65314e5a7",
+    "name": "App personalizada page subheader is undefined",
+    "time": { "start": 1668636751990, "stop": 1668636752032, "duration": 42 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "a55741d8958ba62",
+    "name": "Top menu each inner dropdown element's text corresponds 'Cuotas y contabilidad'",
+    "time": { "start": 1668636739053, "stop": 1668636739097, "duration": 44 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "d8a2c62a376783b1",
+    "name": "Collect Albumes links 'href' attributes and perform HTTP 'GET' requests on them validating the status code is 200",
+    "time": {
+      "start": 1668636294030,
+      "stop": 1668636317975,
+      "duration": 23945
+    },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "ababd129d31dd83",
+    "name": "Top menu each inner dropdown element's text corresponds 'App personalizada'",
+    "time": { "start": 1668636738829, "stop": 1668636738871, "duration": 42 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "c0c7559faa21d2ac",
+    "name": "Main text bold each element's text corresponds 'Lunes a viernes'",
+    "time": { "start": 1668636740308, "stop": 1668636740340, "duration": 32 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "43db3be5e3ce8f3e",
+    "name": "Home page club logotype has attribute 'sizes' equal to '1400px'",
+    "time": { "start": 1668636720986, "stop": 1668636721005, "duration": 19 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "93b75153e6cd9686",
+    "name": "Main text each element's text corresponds 'Comunicación efectiva'",
+    "time": { "start": 1668636754565, "stop": 1668636754592, "duration": 27 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "4741b016720cb46f",
+    "name": "Top menu each inner dropdown element's text corresponds 'Información'",
+    "time": { "start": 1668636768662, "stop": 1668636768704, "duration": 42 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "168804819b605c96",
+    "name": "Top menu each inner dropdown element's text corresponds 'División de Honor B'",
+    "time": { "start": 1668636753542, "stop": 1668636753587, "duration": 45 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "192a5b443613845f",
+    "name": "Top menu each inner dropdown element's text corresponds 'Fotos'",
+    "time": { "start": 1668636722738, "stop": 1668636722777, "duration": 39 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "858e323c376cc712",
+    "name": "Top menu each inner dropdown element's text corresponds 'Circulares Competiciones'",
+    "time": { "start": 1668636768786, "stop": 1668636768824, "duration": 38 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "13baf637b2cb314a",
+    "name": "Image banners on the Home page href attribute against 'https://play.google.com/store/apps/details?id=io.clupik.chpbenalmadena , https://www.malaga.es/ , https://www.juntadeandalucia.es/turismoydeporte/opencms/'",
+    "time": { "start": 1668636755004, "stop": 1668636755035, "duration": 31 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "8a06c67ea13dbaa",
+    "name": "Top menu each inner dropdown element's text corresponds 'Circulares Competiciones'",
+    "time": { "start": 1668636738424, "stop": 1668636738468, "duration": 44 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "57057fa643d133a6",
+    "name": "Temporadas dropdown each element text corresponds '2016/2017'",
+    "time": { "start": 1668636798104, "stop": 1668636798136, "duration": 32 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "945763d39d1d859e",
+    "name": "Top social links number of elements",
+    "time": { "start": 1668636739241, "stop": 1668636739263, "duration": 22 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "6a76c8400eed71c2",
+    "name": "Footer links text corresponds 'Club de Hockey Benalmádena'",
+    "time": { "start": 1668636740689, "stop": 1668636740734, "duration": 45 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "99367794bd7cca79",
+    "name": "Top menu number of elements",
+    "time": { "start": 1668636737360, "stop": 1668636737387, "duration": 27 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "9db6e9d495c9f4f1",
+    "name": "Collect Temporada Page links 'href' attributes and perform HTTP 'GET' requests on them validating the status code is 200",
+    "time": {
+      "start": 1668636654240,
+      "stop": 1668636670369,
+      "duration": 16129
+    },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "ffb84d9dcb1a0358",
+    "name": "Home page club logotype is displayed",
+    "time": { "start": 1668636767504, "stop": 1668636767528, "duration": 24 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "4cf5dbc6a6daf329",
+    "name": "Clases de Padel page title is Clases Pádel",
+    "time": { "start": 1668636767390, "stop": 1668636767432, "duration": 42 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "1001b4e38fe2ff63",
+    "name": "Collect Entrenador Page links 'href' attributes and perform HTTP 'GET' requests on them validating the status code is 200",
+    "time": {
+      "start": 1668636413846,
+      "stop": 1668636429435,
+      "duration": 15589
+    },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "74b970627b6ec088",
+    "name": "Top menu each inner dropdown element's text corresponds 'Equipos'",
+    "time": { "start": 1668636768704, "stop": 1668636768746, "duration": 42 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "1b21e0b5ee2cb785",
+    "name": "Sponsors list number of elements is 9",
+    "time": { "start": 1668636770551, "stop": 1668636770582, "duration": 31 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "a13289a2325ba2b",
+    "name": "Top menu each inner dropdown element's text corresponds 'Información'",
+    "time": { "start": 1668636738295, "stop": 1668636738335, "duration": 40 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "b74ba09e10670eae",
+    "name": "Equipos dropdown each element text corresponds 'Cadete Masculino'",
+    "time": { "start": 1668636799150, "stop": 1668636799180, "duration": 30 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "119b1a058d3c1c03",
+    "name": "Top menu each inner dropdown element's text corresponds 'Máster Mixto'",
+    "time": { "start": 1668636722660, "stop": 1668636722696, "duration": 36 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "62f60e7f062d7c01",
+    "name": "Sponsors list number of elements is 9",
+    "time": { "start": 1668636800961, "stop": 1668636800992, "duration": 31 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "aca474a7a80acb9c",
+    "name": "Top menu each inner dropdown element's text corresponds 'División de Honor B'",
+    "time": { "start": 1668636738516, "stop": 1668636738562, "duration": 46 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "a30122a33c510045",
+    "name": "Collect Inscripciones Page images 'src' attributes and perform HTTP 'GET' requests on them validating the status code is 200",
+    "time": { "start": 1668636530791, "stop": 1668636536769, "duration": 5978 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "1639089321558025",
+    "name": "Image banners on the Clasificaciones page href attribute against 'https://www.rfeh.es , https://hockeyandalucia.es/ , https://www.grupopacopepe.com/'",
+    "time": { "start": 1668636800686, "stop": 1668636800715, "duration": 29 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "f625ab268ca277c9",
+    "name": "Top menu each element's text corresponds 'Comunicación'",
+    "time": { "start": 1668636795947, "stop": 1668636795976, "duration": 29 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "8f2abd2b2caece32",
+    "name": "Top menu each inner dropdown element's text corresponds 'Inicio'",
+    "time": { "start": 1668636752924, "stop": 1668636752968, "duration": 44 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "77b982f5ffb4c2c9",
+    "name": "Alquiler page header is Club de Hockey Benalmádena",
+    "time": { "start": 1668636734856, "stop": 1668636737024, "duration": 2168 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "283c38a746cd1196",
+    "name": "Collect Patrocinadores Page links 'href' attributes and perform HTTP 'GET' requests on them validating the status code is 200",
+    "time": {
+      "start": 1668636589126,
+      "stop": 1668636603039,
+      "duration": 13913
+    },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "ba39c389547e90c9",
+    "name": "Home page club logotype is displayed",
+    "time": { "start": 1668636737180, "stop": 1668636737204, "duration": 24 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "e12f2e3f048e8f16",
+    "name": "Top social links href attribute against 'https://twitter.com/CHBenalmadena , https://www.facebook.com/CHBenalmadena , https://www.instagram.com/chbenalmadena/ , https://www.youtube.com/c/ClubHockeyBenalmadena'",
+    "time": { "start": 1668636769523, "stop": 1668636769557, "duration": 34 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "90a93fc34bfeafb7",
+    "name": "Sponsors list elements have attribute 'data-src' that contains 'https://api.clupik.com/clubs/7671/sponsor/image/'",
+    "time": { "start": 1668636740971, "stop": 1668636741048, "duration": 77 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "f44b6cd504222cb4",
+    "name": "Top menu each element's text corresponds 'Club'",
+    "time": { "start": 1668636752363, "stop": 1668636752412, "duration": 49 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "417ff012c4c2b7c1",
+    "name": "Top social links href attribute against 'https://twitter.com/CHBenalmadena , https://www.facebook.com/CHBenalmadena , https://www.instagram.com/chbenalmadena/ , https://www.youtube.com/c/ClubHockeyBenalmadena'",
+    "time": { "start": 1668636754281, "stop": 1668636754316, "duration": 35 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "4243b3b8725afc62",
+    "name": "Top social links number of elements",
+    "time": { "start": 1668636797708, "stop": 1668636797731, "duration": 23 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "c9ce688b72280e2f",
+    "name": "Main content links href attribute against 'https://www.facebook.com/CampoRetamarBenalmadena , https://g.page/CHBenalmadena?share'",
+    "time": { "start": 1668636740542, "stop": 1668636740567, "duration": 25 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "4f9e5e572fa7f7ef",
+    "name": "Top menu each inner dropdown element's text corresponds 'Hockey'",
+    "time": { "start": 1668636753128, "stop": 1668636753169, "duration": 41 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "d61b3d5176a9e882",
+    "name": "Main text bold each element's text corresponds 'Multicanal'",
+    "time": { "start": 1668636754711, "stop": 1668636754739, "duration": 28 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "34927a1cfd3f2ab5",
+    "name": "Top menu each inner dropdown element's text corresponds 'Patrocinadores'",
+    "time": { "start": 1668636768395, "stop": 1668636768438, "duration": 43 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "9de308d3822aa943",
+    "name": "Collect Hockey Page links 'href' attributes and perform HTTP 'GET' requests on them validating the status code is 200",
+    "time": {
+      "start": 1668636483947,
+      "stop": 1668636497590,
+      "duration": 13643
+    },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "d96c16768f18971d",
+    "name": "Top menu number of elements",
+    "time": { "start": 1668636795802, "stop": 1668636795834, "duration": 32 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "93579a9b45d58c95",
+    "name": "Top menu each inner dropdown element's text corresponds 'Inscripciones'",
+    "time": { "start": 1668636769302, "stop": 1668636769342, "duration": 40 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "62ccfb21da6359df",
+    "name": "Main text bold each element's text corresponds 'Avisos y promociones'",
+    "time": { "start": 1668636754766, "stop": 1668636754794, "duration": 28 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "673d9884ea55073d",
+    "name": "Equipos names text corresponds 'JUVENIL MASCULINO'",
+    "time": { "start": 1668636799838, "stop": 1668636799872, "duration": 34 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "c96772c3a573acb8",
+    "name": "Footer links text corresponds 'Condiciones de uso y aviso legal | '",
+    "time": { "start": 1668636755092, "stop": 1668636755121, "duration": 29 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "8cfa30ffff2541a6",
+    "name": "Main text bold each element's text corresponds 'Escuela de Pádel Alcántara'",
+    "time": { "start": 1668636769866, "stop": 1668636769891, "duration": 25 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "95af2244a22f3435",
+    "name": "Footer links text corresponds 'Protección de datos | '",
+    "time": { "start": 1668636800795, "stop": 1668636800823, "duration": 28 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "a45973ff9ac7db0f",
+    "name": "Image banners on the Home page href attribute against 'https://play.google.com/store/apps/details?id=io.clupik.chpbenalmadena , https://www.malaga.es/ , https://www.juntadeandalucia.es/turismoydeporte/opencms/'",
+    "time": { "start": 1668636723709, "stop": 1668636723738, "duration": 29 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "96b2760a089350f3",
+    "name": "Image banners on the Clasificaciones page are displayed",
+    "time": { "start": 1668636800613, "stop": 1668636800653, "duration": 40 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "95861739841200c2",
+    "name": "Top menu each inner dropdown element's text corresponds 'Entrenador Personal'",
+    "time": { "start": 1668636768527, "stop": 1668636768573, "duration": 46 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "ba8bcf9a59cc9cff",
+    "name": "Left grid text is EQUIPOS",
+    "time": { "start": 1668636800260, "stop": 1668636800297, "duration": 37 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "4144976f7ba67d74",
+    "name": "Top menu each inner dropdown element's text corresponds 'Alquiler Instalaciones'",
+    "time": { "start": 1668636796775, "stop": 1668636796822, "duration": 47 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "7bfdf82b6c4bb091",
+    "name": "Top social links number of elements",
+    "time": { "start": 1668636723066, "stop": 1668636723092, "duration": 26 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "1d2aa153b162ca8c",
+    "name": "Main content links are displayed",
+    "time": { "start": 1668636723133, "stop": 1668636723637, "duration": 504 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "3134db2411e3a31c",
+    "name": "Main text each element's text corresponds 'Patrocinadores. Mayor impacto y acciones directas para tus patrocinadores'",
+    "time": { "start": 1668636754481, "stop": 1668636754508, "duration": 27 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "7821c3317798d8ed",
+    "name": "Equipos dropdown each element text corresponds '1° División Senior Femenino'",
+    "time": { "start": 1668636799025, "stop": 1668636799057, "duration": 32 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "6f15f908d8254e1",
+    "name": "Equipos dropdown each element text corresponds 'Infantil Femenino'",
+    "time": { "start": 1668636799180, "stop": 1668636799213, "duration": 33 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "d20ef735ef146374",
+    "name": "\"before all\" hook for Should check broken links on Partidos page ",
+    "time": {
+      "start": 1668636569106,
+      "stop": 1668636679200,
+      "duration": 110094
+    },
+    "status": "broken",
+    "severity": "normal"
+  },
+  {
+    "uid": "62baafb82e496e9e",
+    "name": "Main text bold each element's text corresponds 'fútbol 7'",
+    "time": { "start": 1668636740189, "stop": 1668636740222, "duration": 33 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "f293e61f73e9312c",
+    "name": "Top menu each element's text corresponds 'Temporada'",
+    "time": { "start": 1668636767724, "stop": 1668636767753, "duration": 29 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "c7f4d162af9a5098",
+    "name": "Image banners have attribute 'data-sizes' equal to 'auto'",
+    "time": { "start": 1668636740607, "stop": 1668636740638, "duration": 31 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "3da91bcc4fac7aad",
+    "name": "Temporadas dropdown each element text corresponds '2008/2009'",
+    "time": { "start": 1668636798372, "stop": 1668636798405, "duration": 33 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "9e13845303f17c3a",
+    "name": "Top menu each element's text corresponds 'Club'",
+    "time": { "start": 1668636721178, "stop": 1668636721207, "duration": 29 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "d0b7c12dd1fa0b1b",
+    "name": "Collect Inscripciones Page links 'href' attributes and perform HTTP 'GET' requests on them validating the status code is 200",
+    "time": {
+      "start": 1668636514004,
+      "stop": 1668636530791,
+      "duration": 16787
+    },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "ef65e43e0389527e",
+    "name": "Top menu each element's text corresponds 'Oficina online'",
+    "time": { "start": 1668636795977, "stop": 1668636796007, "duration": 30 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "2b41f1700dad2b9e",
+    "name": "Equipos names text corresponds '1° DIVISIÓN SENIOR FEMENINO'",
+    "time": { "start": 1668636799773, "stop": 1668636799804, "duration": 31 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "4e4b22bc99f635e2",
+    "name": "Top menu each inner dropdown element's text corresponds 'Inscripciones'",
+    "time": { "start": 1668636739004, "stop": 1668636739053, "duration": 49 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "d6a1b4fd6a737681",
+    "name": "Image banners on the Home page are displayed",
+    "time": { "start": 1668636754929, "stop": 1668636754970, "duration": 41 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "ec1783e38d59402",
+    "name": "Collect Fotos links 'href' attributes and perform HTTP 'GET' requests on them validating the status code is 200",
+    "time": {
+      "start": 1668636443905,
+      "stop": 1668636460786,
+      "duration": 16881
+    },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "32ca7c040a713b54",
+    "name": "Top menu each inner dropdown element's text corresponds '1ª División Femenina'",
+    "time": { "start": 1668636768943, "stop": 1668636768981, "duration": 38 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "3c3ee70766936880",
+    "name": "Grid search button on the Clasificaciones page is displayed",
+    "time": { "start": 1668636799518, "stop": 1668636799542, "duration": 24 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "f3974f0ffbb16bc1",
+    "name": "Clasificaciones page title is Clasificaciones",
+    "time": { "start": 1668636795610, "stop": 1668636795657, "duration": 47 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "2d56c7f1f5094ca5",
+    "name": "Equipos names text corresponds 'CADETE FEMENINO'",
+    "time": { "start": 1668636799872, "stop": 1668636799906, "duration": 34 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "fb352b8d88aa5fbc",
+    "name": "Top menu each inner dropdown element's text corresponds 'Inscripciones'",
+    "time": { "start": 1668636722856, "stop": 1668636722893, "duration": 37 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "cf3d7616b93c2a4c",
+    "name": "Main text bold each element's text corresponds 'Directa'",
+    "time": { "start": 1668636754655, "stop": 1668636754681, "duration": 26 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "ee9d87899b28f330",
+    "name": "Top menu each inner dropdown element's text corresponds 'Protocolo'",
+    "time": { "start": 1668636738468, "stop": 1668636738516, "duration": 48 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "b607a0cf29282679",
+    "name": "Image banners have attribute 'data-sizes' equal to 'auto'",
+    "time": { "start": 1668636770228, "stop": 1668636770263, "duration": 35 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "3927b3776221fba3",
+    "name": "Equipos names text corresponds 'BENJAMÍN FEMENINO'",
+    "time": { "start": 1668636800082, "stop": 1668636800124, "duration": 42 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "f6729c54cdea4a47",
+    "name": "Top menu each inner dropdown element's text corresponds 'Álbumes'",
+    "time": { "start": 1668636769226, "stop": 1668636769265, "duration": 39 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "c117a152761aca60",
+    "name": "Main text each element's text corresponds '608 38 90 91'",
+    "time": { "start": 1668636739874, "stop": 1668636739907, "duration": 33 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "7a7736e865154fc6",
+    "name": "Classes de Padel page sub header is displayed",
+    "time": { "start": 1668636767432, "stop": 1668636767457, "duration": 25 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "cf3fd9d7da0301f6",
+    "name": "Main text each element's text corresponds 'Si quieres recibir información personalizada, contacta directamente con la Escuela de Pádel Alcántara.'",
+    "time": { "start": 1668636769709, "stop": 1668636769736, "duration": 27 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "521a4b9b06994354",
+    "name": "Albumes page 'Álbumes' button text is Álbumes",
+    "time": { "start": 1668636720812, "stop": 1668636720884, "duration": 72 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "a7a9f6ec83e98961",
+    "name": "Top menu each inner dropdown element's text corresponds 'Clases Pádel'",
+    "time": { "start": 1668636722136, "stop": 1668636722176, "duration": 40 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "b9f17923c9a1ce83",
+    "name": "Collect Albumes images 'src' attributes and perform HTTP 'GET' requests on them validating the status code is 200",
+    "time": {
+      "start": 1668636317976,
+      "stop": 1668636332534,
+      "duration": 14558
+    },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "66129f1d588421e8",
+    "name": "Footer links text corresponds 'Política de cookies | '",
+    "time": { "start": 1668636755150, "stop": 1668636755177, "duration": 27 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "301680366be91ec2",
+    "name": "Footer links text corresponds 'Configuración de cookies'",
+    "time": { "start": 1668636755177, "stop": 1668636755207, "duration": 30 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "786f237c121b4902",
+    "name": "Collect Equipos Page images 'src' attributes and perform HTTP 'GET' requests on them validating the status code is 200",
+    "time": {
+      "start": 1668636443340,
+      "stop": 1668636455366,
+      "duration": 12026
+    },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "8948b175a6034090",
+    "name": "Sponsors list number of elements is 9",
+    "time": { "start": 1668636740932, "stop": 1668636740970, "duration": 38 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "7b77024e79fa64f3",
+    "name": "Main text each element's text corresponds 'de 9:00 a 14:00'",
+    "time": { "start": 1668636739974, "stop": 1668636740006, "duration": 32 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "2ba8aaf09865b713",
+    "name": "Top menu number of inner elements",
+    "time": { "start": 1668636796340, "stop": 1668636796395, "duration": 55 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "98edee6dcda611ee",
+    "name": "Top menu each inner dropdown element's text corresponds 'Alquiler Instalaciones'",
+    "time": { "start": 1668636768618, "stop": 1668636768662, "duration": 44 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "f264f36d3eb986fd",
+    "name": "Top menu inner elements are displayed",
+    "time": { "start": 1668636721384, "stop": 1668636721740, "duration": 356 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "e00204e08f0253dd",
+    "name": "Collect Alquiler Page links 'href' attributes and perform HTTP 'GET' requests on them validating the status code is 200",
+    "time": {
+      "start": 1668636294029,
+      "stop": 1668636312238,
+      "duration": 18209
+    },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "e6282ebe9cd02a75",
+    "name": "Main text each element's text corresponds ' las siguientes instalaciones:'",
+    "time": { "start": 1668636739514, "stop": 1668636739548, "duration": 34 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "8cd1eebe9e027fd5",
+    "name": "Sponsors list number of elements is 9",
+    "time": { "start": 1668636755291, "stop": 1668636755324, "duration": 33 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "aa482d96843736e0",
+    "name": "Top menu number of inner elements",
+    "time": { "start": 1668636768201, "stop": 1668636768258, "duration": 57 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "2f06e776ec23c0a4",
+    "name": "Main text each element's text corresponds 'Directa. Comunicación efectiva con los usuarios o grupos directa a su móvil'",
+    "time": { "start": 1668636754394, "stop": 1668636754423, "duration": 29 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "b5714e365b98216e",
+    "name": "Top menu each inner dropdown element's text corresponds 'Equipos'",
+    "time": { "start": 1668636738335, "stop": 1668636738376, "duration": 41 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "92b826560159390e",
+    "name": "Footer links text corresponds 'Condiciones de uso y aviso legal | '",
+    "time": { "start": 1668636740734, "stop": 1668636740760, "duration": 26 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "deece8bca844670f",
+    "name": "Top social links are displayed",
+    "time": { "start": 1668636797614, "stop": 1668636797707, "duration": 93 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "f28f71911b038bbf",
+    "name": "Collect Clases padel Page links 'href' attributes and perform HTTP 'GET' requests on them validating the status code is 200",
+    "time": {
+      "start": 1668636338718,
+      "stop": 1668636353377,
+      "duration": 14659
+    },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "694323b49211c5fe",
+    "name": "Top menu each inner dropdown element's text corresponds 'Hockey'",
+    "time": { "start": 1668636768486, "stop": 1668636768527, "duration": 41 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "56d6013a826f4993",
+    "name": "Top menu each inner dropdown element's text corresponds 'División de Honor B'",
+    "time": { "start": 1668636722424, "stop": 1668636722465, "duration": 41 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "6abbf34b86b94805",
+    "name": "Top menu each element's text corresponds 'Club'",
+    "time": { "start": 1668636767666, "stop": 1668636767696, "duration": 30 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "6ac696b8b54ba48e",
+    "name": "Main text each element's text corresponds 'Avisos y promociones. Los usuarios reciben los avisos más importantes, deportivos y administrativos, así como los anuncios y promociones del club'",
+    "time": { "start": 1668636754508, "stop": 1668636754538, "duration": 30 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "cd1ffe0753bef495",
+    "name": "Footer links text corresponds 'Condiciones de uso y aviso legal | '",
+    "time": { "start": 1668636723791, "stop": 1668636723819, "duration": 28 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "79f8a8bad94d18b4",
+    "name": "Main text each element's text corresponds 'Más de diez años de trayectoria avalan a la '",
+    "time": { "start": 1668636769625, "stop": 1668636769652, "duration": 27 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "75b3d8f462ac83d",
+    "name": "Sponsor categories each element's text corresponds 'Patrocinador Principal'",
+    "time": { "start": 1668636800878, "stop": 1668636800906, "duration": 28 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "b072f53382e28dc1",
+    "name": "Home page club logotype is displayed",
+    "time": { "start": 1668636752133, "stop": 1668636752186, "duration": 53 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "5fc2d23a003b6e06",
+    "name": "Collect Clases padel Page images 'src' attributes and perform HTTP 'GET' requests on them validating the status code is 200",
+    "time": { "start": 1668636353377, "stop": 1668636361001, "duration": 7624 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "8795d26a3dfe8713",
+    "name": "Top menu each inner dropdown element's text corresponds 'Máster Mixto'",
+    "time": { "start": 1668636797303, "stop": 1668636797344, "duration": 41 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "2201c83121965a65",
+    "name": "Equipos dropdown each element text corresponds 'Cadete Femenino'",
+    "time": { "start": 1668636799120, "stop": 1668636799150, "duration": 30 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "f63f2b98a436f7cb",
+    "name": "Footer links text corresponds 'Política de cookies | '",
+    "time": { "start": 1668636770402, "stop": 1668636770439, "duration": 37 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "72365b965a88703a",
+    "name": "Equipos dropdown each element text corresponds 'Infantil Masculino'",
+    "time": { "start": 1668636799213, "stop": 1668636799246, "duration": 33 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "d6f8d0ff42954c83",
+    "name": "Equipos names text corresponds 'INFANTIL FEMENINO'",
+    "time": { "start": 1668636799940, "stop": 1668636799976, "duration": 36 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "99a8fe7e3f59f5a2",
+    "name": "Top menu each element's text corresponds 'Clasificaciones'",
+    "time": { "start": 1668636737480, "stop": 1668636737507, "duration": 27 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "dc9bb03268d60d10",
+    "name": "Top menu each inner dropdown element's text corresponds '1ª División Femenina'",
+    "time": { "start": 1668636738609, "stop": 1668636738653, "duration": 44 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "eaa45efad7858b6f",
+    "name": "Clasificaciones page club logotype has attribute 'sizes' equal to '1400px'",
+    "time": { "start": 1668636795680, "stop": 1668636795701, "duration": 21 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "4757789775f3e3bf",
+    "name": "Classes de Padel page sub header is Escuela de Pádel Alcántara",
+    "time": { "start": 1668636767458, "stop": 1668636767504, "duration": 46 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "484915bd9d695899",
+    "name": "Top menu each inner dropdown element's text corresponds '1ª División Masculina'",
+    "time": { "start": 1668636722465, "stop": 1668636722503, "duration": 38 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "9e7e3d2dcb512f67",
+    "name": "App personalizada page main image is displayed",
+    "time": { "start": 1668636752032, "stop": 1668636752071, "duration": 39 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "80a20a5accd6255c",
+    "name": "Top menu elements are displayed",
+    "time": { "start": 1668636721005, "stop": 1668636721143, "duration": 138 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "563bfb6632cfb0e1",
+    "name": "Top menu each inner dropdown element's text corresponds 'Partidos'",
+    "time": { "start": 1668636768746, "stop": 1668636768786, "duration": 40 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "9b61757ea48fc988",
+    "name": "Top social links are displayed",
+    "time": { "start": 1668636754160, "stop": 1668636754259, "duration": 99 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "d660370536682860",
+    "name": "Top menu each inner dropdown element's text corresponds 'Inicio'",
+    "time": { "start": 1668636737927, "stop": 1668636737971, "duration": 44 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "e2aefd0b89a55501",
+    "name": "Equipos names text corresponds 'MÁSTER MIXTO'",
+    "time": { "start": 1668636800175, "stop": 1668636800209, "duration": 34 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "664ab427d17daa78",
+    "name": "Collect Hockey Page images 'src' attributes and perform HTTP 'GET' requests on them validating the status code is 200",
+    "time": { "start": 1668636497591, "stop": 1668636504682, "duration": 7091 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "43dd42e5ca5972f9",
+    "name": "Top social links number of elements",
+    "time": { "start": 1668636769497, "stop": 1668636769520, "duration": 23 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "76150e50561f93a7",
+    "name": "Home page club logotype has attribute 'sizes' equal to '1400px'",
+    "time": { "start": 1668636737205, "stop": 1668636737223, "duration": 18 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "c2b61942fd37ff08",
+    "name": "Top menu each inner dropdown element's text corresponds 'Contacto'",
+    "time": { "start": 1668636753090, "stop": 1668636753128, "duration": 38 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "c78e3b5a34139e4",
+    "name": "Top menu each inner dropdown element's text corresponds 'Infantil (Femenino y Masculino)'",
+    "time": { "start": 1668636753758, "stop": 1668636753802, "duration": 44 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "a385011d3a428ea3",
+    "name": "Top menu each element's text corresponds 'Clasificaciones'",
+    "time": { "start": 1668636721276, "stop": 1668636721322, "duration": 46 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "bd820e0795b28eab",
+    "name": "Top menu each inner dropdown element's text corresponds 'Cadete Masculino'",
+    "time": { "start": 1668636753714, "stop": 1668636753758, "duration": 44 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "978f2584e54411c1",
+    "name": "Sponsor categories each element's text corresponds 'Patrocinador Principal'",
+    "time": { "start": 1668636770465, "stop": 1668636770497, "duration": 32 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "7173415e1af6002c",
+    "name": "Clasificaciones page sub header is Hockey Hierba",
+    "time": { "start": 1668636799474, "stop": 1668636799517, "duration": 43 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "56832b773c7918ad",
+    "name": "Cookies modal is displayed",
+    "time": { "start": 1668636759438, "stop": 1668636764734, "duration": 5296 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "9a216f5d3399e231",
+    "name": "Temporadas dropdown each element text corresponds '2006/2007'",
+    "time": { "start": 1668636798442, "stop": 1668636798481, "duration": 39 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "f38df8423c5a1dc6",
+    "name": "Top menu each inner dropdown element's text corresponds '1ª División Femenina'",
+    "time": { "start": 1668636722503, "stop": 1668636722541, "duration": 38 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "2737046807ed0804",
+    "name": "App personalizada page subheader is Notificaciones y comunicación",
+    "time": { "start": 1668636751938, "stop": 1668636751989, "duration": 51 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "94cea80b2a97cccd",
+    "name": "Top menu each inner dropdown element's text corresponds 'Documentación'",
+    "time": { "start": 1668636722933, "stop": 1668636722971, "duration": 38 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "77085f703e00619",
+    "name": "Top menu each inner dropdown element's text corresponds 'Clases Pádel'",
+    "time": { "start": 1668636768573, "stop": 1668636768618, "duration": 45 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "2b3a8a2dced4fbd4",
+    "name": "Temporadas dropdown each element text corresponds '2005/2006'",
+    "time": { "start": 1668636798481, "stop": 1668636798516, "duration": 35 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "6480994ea04c0578",
+    "name": "Footer links text corresponds 'Configuración de cookies'",
+    "time": { "start": 1668636740815, "stop": 1668636740841, "duration": 26 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "69492f272cefc7e3",
+    "name": "Collect App Personalizada Page links 'href' attributes and perform HTTP 'GET' requests on them validating the status code is 200",
+    "time": {
+      "start": 1668636323685,
+      "stop": 1668636337870,
+      "duration": 14185
+    },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "aa0219b1b111b29a",
+    "name": "Top menu each inner dropdown element's text corresponds 'Equipos'",
+    "time": { "start": 1668636753352, "stop": 1668636753396, "duration": 44 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "47b605adafd8c9c7",
+    "name": "Temporadas dropdown each element text corresponds '2013/2014'",
+    "time": { "start": 1668636798201, "stop": 1668636798235, "duration": 34 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "9338632a5dd6128d",
+    "name": "Top menu inner elements are displayed",
+    "time": { "start": 1668636767840, "stop": 1668636768201, "duration": 361 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "a27f377c230189fe",
+    "name": "Top menu each inner dropdown element's text corresponds 'Partidos'",
+    "time": { "start": 1668636722304, "stop": 1668636722343, "duration": 39 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "126387e8876c55db",
+    "name": "Main text each element's text corresponds ' de cesped artificial '",
+    "time": { "start": 1668636739706, "stop": 1668636739738, "duration": 32 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "b324e1b318a79080",
+    "name": "Temporadas dropdown each element text corresponds '2012/2013'",
+    "time": { "start": 1668636798235, "stop": 1668636798273, "duration": 38 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "ec1cb2f511ea6556",
+    "name": "Footer links text corresponds 'Club de Hockey Benalmádena'",
+    "time": { "start": 1668636723760, "stop": 1668636723791, "duration": 31 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "d82f322cff79fb3f",
+    "name": "Top menu each inner dropdown element's text corresponds 'Inicio'",
+    "time": { "start": 1668636768259, "stop": 1668636768309, "duration": 50 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "f47b1354ddc50dbf",
+    "name": "Top menu each inner dropdown element's text corresponds 'Fotos'",
+    "time": { "start": 1668636753903, "stop": 1668636753945, "duration": 42 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "2274a162d5528c58",
+    "name": "Top menu each inner dropdown element's text corresponds 'Fotos'",
+    "time": { "start": 1668636738872, "stop": 1668636738920, "duration": 48 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "908003342e11e3c4",
+    "name": "Top menu each inner dropdown element's text corresponds 'Documentación'",
+    "time": { "start": 1668636797578, "stop": 1668636797614, "duration": 36 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "bec5d3772208abdf",
+    "name": "Home page open and cookies modal is visible",
+    "time": { "start": 1668637617427, "stop": 1668637617474, "duration": 47 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "72c9e221c8e8df2e",
+    "name": "Cookies modal is displayed",
+    "time": { "start": 1668636744392, "stop": 1668636749866, "duration": 5474 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "cca141df4cd1df5d",
+    "name": "Sponsor categories each element's text corresponds ''",
+    "time": { "start": 1668636740904, "stop": 1668636740932, "duration": 28 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "4960cac7376dfb1e",
+    "name": "Footer links text corresponds 'Protección de datos | '",
+    "time": { "start": 1668636770377, "stop": 1668636770402, "duration": 25 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "ceb28766886042f1",
+    "name": "Image banners on the Home page href attribute against 'https://play.google.com/store/apps/details?id=io.clupik.chpbenalmadena , https://www.malaga.es/ , https://www.juntadeandalucia.es/turismoydeporte/opencms/'",
+    "time": { "start": 1668636740638, "stop": 1668636740669, "duration": 31 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "7fda0557f2160bbf",
+    "name": "Collect Contabilidad Page images 'src' attributes and perform HTTP 'GET' requests on them validating the status code is 200",
+    "time": { "start": 1668636381702, "stop": 1668636389240, "duration": 7538 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "cad3dab8077d378d",
+    "name": "Top menu each element's text corresponds 'Clasificaciones'",
+    "time": { "start": 1668636752473, "stop": 1668636752505, "duration": 32 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "bc076ad6cde92a73",
+    "name": "Top menu elements are displayed",
+    "time": { "start": 1668636795701, "stop": 1668636795802, "duration": 101 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "d9f6601690cb7223",
+    "name": "Equipos dropdown each element text corresponds 'Benjamín Femenino'",
+    "time": { "start": 1668636799307, "stop": 1668636799337, "duration": 30 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "956a3f8f05514651",
+    "name": "Top menu each inner dropdown element's text corresponds 'Máster Mixto'",
+    "time": { "start": 1668636753802, "stop": 1668636753859, "duration": 57 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "89cd887c89869a2d",
+    "name": "Top menu each element's text corresponds 'Temporada'",
+    "time": { "start": 1668636752444, "stop": 1668636752473, "duration": 29 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "9ef9941d961bbce6",
+    "name": "Equipos dropdown each element text corresponds 'Benjamín Masculino'",
+    "time": { "start": 1668636799337, "stop": 1668636799367, "duration": 30 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "1a55f1f975cbae00",
+    "name": "Top menu each element's text corresponds 'Comunicación'",
+    "time": { "start": 1668636767783, "stop": 1668636767811, "duration": 28 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "bdf6a561119b7cd",
+    "name": "Top menu each inner dropdown element's text corresponds 'Partidos'",
+    "time": { "start": 1668636753396, "stop": 1668636753438, "duration": 42 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "25db9787c707e8e3",
+    "name": "Top menu each inner dropdown element's text corresponds 'Fotos'",
+    "time": { "start": 1668636769187, "stop": 1668636769226, "duration": 39 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "e4899c4a4e1a9015",
+    "name": "Top menu each inner dropdown element's text corresponds 'Entrenador Personal'",
+    "time": { "start": 1668636738173, "stop": 1668636738215, "duration": 42 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "3a62e2e4538aa061",
+    "name": "Main text each element's text corresponds 'Contacto para reservas'",
+    "time": { "start": 1668636739842, "stop": 1668636739874, "duration": 32 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "8c2d1c825e725561",
+    "name": "Main text each element's text corresponds 'cerrado (salvo competición oficial)'",
+    "time": { "start": 1668636740006, "stop": 1668636740040, "duration": 34 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "cb4232397458be1d",
+    "name": "Sponsor categories each element's text corresponds 'Patrocinadores Oficiales'",
+    "time": { "start": 1668636770497, "stop": 1668636770521, "duration": 24 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "f79a455ad6603ed4",
+    "name": "Top menu each element's text corresponds 'Temporada'",
+    "time": { "start": 1668636737451, "stop": 1668636737480, "duration": 29 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "db09009f2eae9cdc",
+    "name": "Sponsor categories each element's text corresponds 'Patrocinador Principal'",
+    "time": { "start": 1668636723899, "stop": 1668636723927, "duration": 28 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "c269c6f32f61ee6c",
+    "name": "Cookies modal is displayed",
+    "time": { "start": 1668636774459, "stop": 1668636783496, "duration": 9037 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "da8e248b623f4c5e",
+    "name": "App personalizada page title is displayed",
+    "time": { "start": 1668636752071, "stop": 1668636752094, "duration": 23 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "96ef657c1528810f",
+    "name": "Top menu each inner dropdown element's text corresponds 'Instalaciones'",
+    "time": { "start": 1668636753010, "stop": 1668636753047, "duration": 37 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "fdca3c486e1fdb58",
+    "name": "Main text bold each element's text corresponds 'hockey'",
+    "time": { "start": 1668636740162, "stop": 1668636740189, "duration": 27 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "722ee8622bf9b09a",
+    "name": "Top menu each inner dropdown element's text corresponds 'Protocolo'",
+    "time": { "start": 1668636753497, "stop": 1668636753542, "duration": 45 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "dddb72cdde9a3650",
+    "name": "Dropdown buttons are displayed",
+    "time": { "start": 1668636797766, "stop": 1668636797889, "duration": 123 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "6b4d2ef6c00701be",
+    "name": "Top menu each inner dropdown element's text corresponds 'Cadete Masculino'",
+    "time": { "start": 1668636722583, "stop": 1668636722619, "duration": 36 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "bf30b82041fdbd94",
+    "name": "Top menu each inner dropdown element's text corresponds 'Cadete Masculino'",
+    "time": { "start": 1668636769023, "stop": 1668636769064, "duration": 41 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "fcb6558dd93dc6fd",
+    "name": "Main text bold each element's text corresponds 'Domingo'",
+    "time": { "start": 1668636740370, "stop": 1668636740402, "duration": 32 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "556e192463d1397b",
+    "name": "Home page club logotype has attribute 'sizes' equal to '1400px'",
+    "time": { "start": 1668636767529, "stop": 1668636767547, "duration": 18 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "ca7798b3d0e3b7b9",
+    "name": "Equipos dropdown each element text corresponds 'Alevín Femenino'",
+    "time": { "start": 1668636799246, "stop": 1668636799278, "duration": 32 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "33f108d2cb748dfc",
+    "name": "Top social links are displayed",
+    "time": { "start": 1668636739147, "stop": 1668636739241, "duration": 94 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "12a68fa623dea692",
+    "name": "Left grid header on the Clasificaciones page is displayed",
+    "time": { "start": 1668636800241, "stop": 1668636800260, "duration": 19 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "4938639844a74c3a",
+    "name": "Top menu each inner dropdown element's text corresponds 'Inicio'",
+    "time": { "start": 1668636721798, "stop": 1668636721849, "duration": 51 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "d39580fd2609d651",
+    "name": "Week Nav Bar is displayed",
+    "time": { "start": 1668636798549, "stop": 1668636798655, "duration": 106 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "eb8c370213e70746",
+    "name": "Top menu each inner dropdown element's text corresponds 'División de Honor B'",
+    "time": { "start": 1668636768865, "stop": 1668636768904, "duration": 39 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "ac420941378f361e",
+    "name": "Top menu each inner dropdown element's text corresponds 'App personalizada'",
+    "time": { "start": 1668636769145, "stop": 1668636769187, "duration": 42 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "3b57b53ac75841ec",
+    "name": "Temporadas dropdown each element text corresponds '2009/2010'",
+    "time": { "start": 1668636798340, "stop": 1668636798372, "duration": 32 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "146510d5d1e24318",
+    "name": "Top menu each element's text corresponds 'Secciones'",
+    "time": { "start": 1668636737418, "stop": 1668636737451, "duration": 33 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "8006edd5ec146c28",
+    "name": "Temporadas dropdown each element text corresponds '2015/2016'",
+    "time": { "start": 1668636798136, "stop": 1668636798169, "duration": 33 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "f1f1eadb22bf7d6c",
+    "name": "Top menu each inner dropdown element's text corresponds 'Entrenador Personal'",
+    "time": { "start": 1668636796670, "stop": 1668636796717, "duration": 47 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "fc8322d2c5fcd875",
+    "name": "Temporadas dropdown each element text corresponds '2010/2011'",
+    "time": { "start": 1668636798306, "stop": 1668636798339, "duration": 33 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "3355734816b4d69b",
+    "name": "Top menu each inner dropdown element's text corresponds '1ª División Masculina'",
+    "time": { "start": 1668636768904, "stop": 1668636768943, "duration": 39 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "4cd75492c3dc4161",
+    "name": "Top menu each inner dropdown element's text corresponds 'Inscripciones'",
+    "time": { "start": 1668636754034, "stop": 1668636754080, "duration": 46 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "16820dd53a0e3070",
+    "name": "Top menu each inner dropdown element's text corresponds 'Álbumes'",
+    "time": { "start": 1668636753945, "stop": 1668636753989, "duration": 44 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "b383618bc47a5e92",
+    "name": "Top menu each inner dropdown element's text corresponds 'Equipos'",
+    "time": { "start": 1668636722263, "stop": 1668636722304, "duration": 41 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "a2a01c04429b3eae",
+    "name": "Clasificaciones page club logotype is displayed",
+    "time": { "start": 1668636795657, "stop": 1668636795680, "duration": 23 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "85e8cc128022e05b",
+    "name": "Top menu each inner dropdown element's text corresponds 'Contacto'",
+    "time": { "start": 1668636796573, "stop": 1668636796619, "duration": 46 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "61d2389869d45f1d",
+    "name": "Footer links text corresponds 'Configuración de cookies'",
+    "time": { "start": 1668636723872, "stop": 1668636723899, "duration": 27 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "df84832da5b5976c",
+    "name": "Home page club logotype is visible",
+    "time": { "start": 1668637622409, "stop": 1668637622476, "duration": 67 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "275e71a78aaa3ee3",
+    "name": "Temporadas dropdown each element text corresponds '2011/2012'",
+    "time": { "start": 1668636798274, "stop": 1668636798306, "duration": 32 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "947775a20c5011b6",
+    "name": "Footer on the Home page is displayed",
+    "time": { "start": 1668636740669, "stop": 1668636740689, "duration": 20 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "a86c486f4b1dc3d4",
+    "name": "Top menu each inner dropdown element's text corresponds 'Instalaciones'",
+    "time": { "start": 1668636768351, "stop": 1668636768395, "duration": 44 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "6a1e69d0c9785911",
+    "name": "Top menu each element's text corresponds 'Temporada'",
+    "time": { "start": 1668636795893, "stop": 1668636795920, "duration": 27 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "5fe94e49b4b2dce1",
+    "name": "Top menu number of elements",
+    "time": { "start": 1668636767639, "stop": 1668636767666, "duration": 27 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "dcb555c9ebcfb559",
+    "name": "Collect Login modal links 'href' attributes and perform HTTP 'GET' requests on them validating the status code is 200",
+    "time": { "start": 1668636577829, "stop": 1668636580080, "duration": 2251 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "16a0a513c67a25e8",
+    "name": "Footer links text corresponds 'Protección de datos | '",
+    "time": { "start": 1668636740761, "stop": 1668636740788, "duration": 27 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "8f2506ed75981459",
+    "name": "Main text bold each element's text corresponds 'Escuela de Pádel Alcántara.'",
+    "time": { "start": 1668636769891, "stop": 1668636769918, "duration": 27 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "4ac0fc2af4b6e80c",
+    "name": "Top menu inner elements are displayed",
+    "time": { "start": 1668636796007, "stop": 1668636796340, "duration": 333 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "873abfb9660c5a38",
+    "name": "Top social links href attribute against 'https://twitter.com/CHBenalmadena , https://www.facebook.com/CHBenalmadena , https://www.instagram.com/chbenalmadena/ , https://www.youtube.com/c/ClubHockeyBenalmadena'",
+    "time": { "start": 1668636797731, "stop": 1668636797766, "duration": 35 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "fc5fb6076206a8c9",
+    "name": "Main text bold each element's text corresponds 'Campo de césped artificial 30x20 m.'",
+    "time": { "start": 1668636740251, "stop": 1668636740280, "duration": 29 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "fe056a6396f26a38",
+    "name": "Collect Videos images 'src' attributes and perform HTTP 'GET' requests on them validating the status code is 200",
+    "time": { "start": 1668636695636, "stop": 1668636704167, "duration": 8531 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "56c51b67e03c6908",
+    "name": "Image banners on the Home page are displayed",
+    "time": { "start": 1668636770187, "stop": 1668636770228, "duration": 41 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "573f20b26697189f",
+    "name": "Main text each element's text corresponds 'Personalizable. Selecciona a qué equipos, usuarios o colectivos del club quieres enviar la notificación'",
+    "time": { "start": 1668636754423, "stop": 1668636754451, "duration": 28 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "63cd140ab9fd59c0",
+    "name": "Top menu each inner dropdown element's text corresponds 'Documentación'",
+    "time": { "start": 1668636754117, "stop": 1668636754160, "duration": 43 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "3cd88e410915158",
+    "name": "Equipos dropdown each element text corresponds 'Escuela Hockey'",
+    "time": { "start": 1668636799398, "stop": 1668636799428, "duration": 30 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "4dbb874f9a010a9c",
+    "name": "Home page club logotype has attribute 'sizes' equal to '1400px'",
+    "time": { "start": 1668636752187, "stop": 1668636752208, "duration": 21 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "59866db9e0f6e785",
+    "name": "Main text bold each element's text corresponds 'reservar'",
+    "time": { "start": 1668636740131, "stop": 1668636740162, "duration": 31 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "477016db9c9b438f",
+    "name": "Equipos names text corresponds 'CADETE MASCULINO'",
+    "time": { "start": 1668636799907, "stop": 1668636799940, "duration": 33 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "43956681cad64b68",
+    "name": "Top menu each inner dropdown element's text corresponds 'Cadete Masculino'",
+    "time": { "start": 1668636797222, "stop": 1668636797263, "duration": 41 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "34738353455f58b0",
+    "name": "Top menu each inner dropdown element's text corresponds 'Contacto'",
+    "time": { "start": 1668636721992, "stop": 1668636722042, "duration": 50 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "f672b4f142942e7",
+    "name": "Footer links text corresponds 'Política de cookies | '",
+    "time": { "start": 1668636800823, "stop": 1668636800849, "duration": 26 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "5457e2bd9b5ec0d5",
+    "name": "Top menu each inner dropdown element's text corresponds 'Instalaciones'",
+    "time": { "start": 1668636721895, "stop": 1668636721943, "duration": 48 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "728efd8a5692972",
+    "name": "Footer on the Home page is displayed",
+    "time": { "start": 1668636723738, "stop": 1668636723760, "duration": 22 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "9d27c305c315d40f",
+    "name": "Temporadas dropdown each element text corresponds '2004/2005'",
+    "time": { "start": 1668636798516, "stop": 1668636798549, "duration": 33 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "f12c3a6a91337871",
+    "name": "Top menu each inner dropdown element's text corresponds 'Patrocinadores'",
+    "time": { "start": 1668636753048, "stop": 1668636753090, "duration": 42 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "d4c9908e44238a2f",
+    "name": "Albumes page title is Fotos",
+    "time": { "start": 1668636719144, "stop": 1668636719185, "duration": 41 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "6bc593601ba74b5c",
+    "name": "Top menu each inner dropdown element's text corresponds 'Infantil (Femenino y Masculino)'",
+    "time": { "start": 1668636797263, "stop": 1668636797302, "duration": 39 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "4f05b421d4c489f",
+    "name": "Top menu each inner dropdown element's text corresponds 'Álbumes'",
+    "time": { "start": 1668636797426, "stop": 1668636797464, "duration": 38 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "6b58ae5266ed2b71",
+    "name": "Temporadas dropdown each element text corresponds '2014/2015'",
+    "time": { "start": 1668636798169, "stop": 1668636798201, "duration": 32 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "b3efdd2e5c3f8e01",
+    "name": "Top menu each element's text corresponds 'Oficina online'",
+    "time": { "start": 1668636752533, "stop": 1668636752561, "duration": 28 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "cb2630612fe86e5b",
+    "name": "Main text bold is displayed",
+    "time": { "start": 1668636740040, "stop": 1668636740131, "duration": 91 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "7e035c8374f5a54f",
+    "name": "Top menu each inner dropdown element's text corresponds 'Alquiler Instalaciones'",
+    "time": { "start": 1668636738255, "stop": 1668636738295, "duration": 40 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "9ab2511c4750d9e1",
+    "name": "Equipos dropdown each element text corresponds 'Juvenil Masculino'",
+    "time": { "start": 1668636799090, "stop": 1668636799120, "duration": 30 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "bf1bc0079aa5afca",
+    "name": "Collect Contabilidad Page links 'href' attributes and perform HTTP 'GET' requests on them validating the status code is 200",
+    "time": {
+      "start": 1668636368775,
+      "stop": 1668636381701,
+      "duration": 12926
+    },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "77bdb846940407d7",
+    "name": "Equipos names text corresponds 'ESCUELA HOCKEY'",
+    "time": { "start": 1668636800209, "stop": 1668636800241, "duration": 32 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "55f85f4428847cd1",
+    "name": "Top menu each element's text corresponds 'Comunicación'",
+    "time": { "start": 1668636752505, "stop": 1668636752533, "duration": 28 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "9f1ef76ce8973e94",
+    "name": "Top menu each inner dropdown element's text corresponds 'Cadete Femenino'",
+    "time": { "start": 1668636753674, "stop": 1668636753714, "duration": 40 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "6c122e7ad545287a",
+    "name": "Collect Home Page images 'src' attributes and perform HTTP 'GET' requests on them validating the status code is 200",
+    "time": {
+      "start": 1668636542677,
+      "stop": 1668636577827,
+      "duration": 35150
+    },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "6fbbbdeac861fadf",
+    "name": "Albumes page header is Club de Hockey Benalmádena",
+    "time": { "start": 1668636716300, "stop": 1668636719120, "duration": 2820 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "2a0db0852f7a6a7",
+    "name": "Top menu each inner dropdown element's text corresponds 'Hockey'",
+    "time": { "start": 1668636738135, "stop": 1668636738173, "duration": 38 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "8519b8d9a596eaac",
+    "name": "Main text each element's text corresponds 'En el Campo Municipal de Deportes \"El Retamar\" tienes la opción de '",
+    "time": { "start": 1668636739483, "stop": 1668636739514, "duration": 31 },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "9445d260a75587ab",
+    "name": "Top menu each inner dropdown element's text corresponds 'Historia'",
+    "time": { "start": 1668636737971, "stop": 1668636738011, "duration": 40 },
+    "status": "passed",
+    "severity": "normal"
+  }
+]

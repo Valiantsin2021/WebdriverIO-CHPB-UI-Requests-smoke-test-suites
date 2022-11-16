@@ -1,0 +1,43 @@
+{
+  "uid": "93d2b47a74e3777f",
+  "name": "Top menu each inner dropdown element's text corresponds 'Cadete Femenino'",
+  "fullName": "Should open Albumes page and check.Top menu each inner dropdown element's text corresponds 'Cadete Femenino'",
+  "historyId": "b99c57c31758b224ee9c8b8d95b1ae41",
+  "time": { "start": 1668636722541, "stop": 1668636722583, "duration": 42 },
+  "description": "",
+  "descriptionHtml": "",
+  "status": "passed",
+  "flaky": false,
+  "newFailed": false,
+  "newBroken": false,
+  "newPassed": false,
+  "retriesCount": 0,
+  "retriesStatusChange": false,
+  "beforeStages": [],
+  "afterStages": [],
+  "labels": [
+    { "name": "framework", "value": "wdio" },
+    { "name": "language", "value": "javascript" },
+    { "name": "thread", "value": "0-25" },
+    { "name": "suite", "value": "Should open Albumes page and check" },
+    { "name": "testClass", "value": "Should open Albumes page and check" },
+    {
+      "name": "testMethod",
+      "value": "Top menu each inner dropdown element's text corresponds 'Cadete Femenino'"
+    },
+    { "name": "package", "value": "Should open Albumes page and check" },
+    { "name": "resultFormat", "value": "allure1" }
+  ],
+  "parameters": [{ "name": "browser", "value": "chrome-107.0.5304.107" }],
+  "links": [],
+  "hidden": false,
+  "retry": false,
+  "extra": {
+    "severity": "normal",
+    "retries": [],
+    "categories": [],
+    "tags": []
+  },
+  "source": "93d2b47a74e3777f.json",
+  "parameterValues": ["chrome-107.0.5304.107"]
+}

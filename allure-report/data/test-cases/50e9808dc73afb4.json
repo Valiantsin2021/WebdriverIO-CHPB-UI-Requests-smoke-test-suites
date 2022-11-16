@@ -1,0 +1,52 @@
+{
+  "uid": "50e9808dc73afb4",
+  "name": "Collect Temporada Page images 'src' attributes and perform HTTP 'GET' requests on them validating the status code is 200",
+  "fullName": "Should check broken links on Temporada page .Collect Temporada Page images 'src' attributes and perform HTTP 'GET' requests on them validating the status code is 200",
+  "historyId": "8e7beef970d1625ef79919de8e27cfdb",
+  "time": { "start": 1668636670369, "stop": 1668636674967, "duration": 4598 },
+  "description": "",
+  "descriptionHtml": "",
+  "status": "passed",
+  "flaky": false,
+  "newFailed": false,
+  "newBroken": false,
+  "newPassed": false,
+  "retriesCount": 0,
+  "retriesStatusChange": false,
+  "beforeStages": [],
+  "afterStages": [],
+  "labels": [
+    { "name": "framework", "value": "wdio" },
+    { "name": "language", "value": "javascript" },
+    { "name": "thread", "value": "0-19" },
+    {
+      "name": "suite",
+      "value": "Should check broken links on Temporada page "
+    },
+    {
+      "name": "testClass",
+      "value": "Should check broken links on Temporada page "
+    },
+    {
+      "name": "testMethod",
+      "value": "Collect Temporada Page images 'src' attributes and perform HTTP 'GET' requests on them validating the status code is 200"
+    },
+    {
+      "name": "package",
+      "value": "Should check broken links on Temporada page "
+    },
+    { "name": "resultFormat", "value": "allure1" }
+  ],
+  "parameters": [{ "name": "browser", "value": "chrome-107.0.5304.107" }],
+  "links": [],
+  "hidden": false,
+  "retry": false,
+  "extra": {
+    "severity": "normal",
+    "retries": [],
+    "categories": [],
+    "tags": []
+  },
+  "source": "50e9808dc73afb4.json",
+  "parameterValues": ["chrome-107.0.5304.107"]
+}

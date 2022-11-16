@@ -1,0 +1,43 @@
+{
+  "uid": "16a0a513c67a25e8",
+  "name": "Footer links text corresponds 'Protección de datos | '",
+  "fullName": "Should open Alquiler page and check.Footer links text corresponds 'Protección de datos | '",
+  "historyId": "ac7daf5f8b9e2fd574b1d37a13da80c2",
+  "time": { "start": 1668636740761, "stop": 1668636740788, "duration": 27 },
+  "description": "",
+  "descriptionHtml": "",
+  "status": "passed",
+  "flaky": false,
+  "newFailed": false,
+  "newBroken": false,
+  "newPassed": false,
+  "retriesCount": 0,
+  "retriesStatusChange": false,
+  "beforeStages": [],
+  "afterStages": [],
+  "labels": [
+    { "name": "framework", "value": "wdio" },
+    { "name": "language", "value": "javascript" },
+    { "name": "thread", "value": "0-26" },
+    { "name": "suite", "value": "Should open Alquiler page and check" },
+    { "name": "testClass", "value": "Should open Alquiler page and check" },
+    {
+      "name": "testMethod",
+      "value": "Footer links text corresponds 'Protección de datos | '"
+    },
+    { "name": "package", "value": "Should open Alquiler page and check" },
+    { "name": "resultFormat", "value": "allure1" }
+  ],
+  "parameters": [{ "name": "browser", "value": "chrome-107.0.5304.107" }],
+  "links": [],
+  "hidden": false,
+  "retry": false,
+  "extra": {
+    "severity": "normal",
+    "retries": [],
+    "categories": [],
+    "tags": []
+  },
+  "source": "16a0a513c67a25e8.json",
+  "parameterValues": ["chrome-107.0.5304.107"]
+}

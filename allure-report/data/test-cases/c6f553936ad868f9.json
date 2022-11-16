@@ -1,0 +1,49 @@
+{
+  "uid": "c6f553936ad868f9",
+  "name": "Equipos names text corresponds 'RH PRIVÉ BENALMÁDENA'",
+  "fullName": "Should open Clasificaciones page and check.Equipos names text corresponds 'RH PRIVÉ BENALMÁDENA'",
+  "historyId": "d4be4174f0b0396ded60c668060129c9",
+  "time": { "start": 1668636799739, "stop": 1668636799772, "duration": 33 },
+  "description": "",
+  "descriptionHtml": "",
+  "status": "passed",
+  "flaky": false,
+  "newFailed": false,
+  "newBroken": false,
+  "newPassed": false,
+  "retriesCount": 0,
+  "retriesStatusChange": false,
+  "beforeStages": [],
+  "afterStages": [],
+  "labels": [
+    { "name": "framework", "value": "wdio" },
+    { "name": "language", "value": "javascript" },
+    { "name": "thread", "value": "0-29" },
+    { "name": "suite", "value": "Should open Clasificaciones page and check" },
+    {
+      "name": "testClass",
+      "value": "Should open Clasificaciones page and check"
+    },
+    {
+      "name": "testMethod",
+      "value": "Equipos names text corresponds 'RH PRIVÉ BENALMÁDENA'"
+    },
+    {
+      "name": "package",
+      "value": "Should open Clasificaciones page and check"
+    },
+    { "name": "resultFormat", "value": "allure1" }
+  ],
+  "parameters": [{ "name": "browser", "value": "chrome-107.0.5304.107" }],
+  "links": [],
+  "hidden": false,
+  "retry": false,
+  "extra": {
+    "severity": "normal",
+    "retries": [],
+    "categories": [],
+    "tags": []
+  },
+  "source": "c6f553936ad868f9.json",
+  "parameterValues": ["chrome-107.0.5304.107"]
+}

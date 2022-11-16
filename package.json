@@ -12,7 +12,7 @@
     "requests:chrome": "npx cross-env ENV=chrome npm run wdio -- --suite requests",
     "smoke:chrome": "npm run clean && npx cross-env ENV=chrome npm run wdio -- --suite smoke",
     "smoke:edge": "npm run clean && npx cross-env ENV=edge npm run wdio -- --suite smoke",
-    "run:github": "npm run clean && npm run wdio-headless -- --suite smoke && npm run wdio-headless -- --suite ui && npm run wdio-headless -- --suite requests",
+    "run:github": "npm run clean && npm run wdio-headless -- --suite smoke && npm run wdio-headless -- --suite ui",
     "clean": "rimraf allure-report && rimraf allure-results && rimraf screenshots/failed-tests/*",
     "wdio": "wdio run wdio.conf.js",
     "wdio-headless": "wdio run wdio-github.conf.js",

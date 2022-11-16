@@ -1,0 +1,49 @@
+{
+  "uid": "df9f219f66f304ae",
+  "name": "Temporadas dropdown each element text corresponds '2018/2019'",
+  "fullName": "Should open Clasificaciones page and check.Temporadas dropdown each element text corresponds '2018/2019'",
+  "historyId": "67ad4e26845a158dc9876d6478619f40",
+  "time": { "start": 1668636798033, "stop": 1668636798067, "duration": 34 },
+  "description": "",
+  "descriptionHtml": "",
+  "status": "passed",
+  "flaky": false,
+  "newFailed": false,
+  "newBroken": false,
+  "newPassed": false,
+  "retriesCount": 0,
+  "retriesStatusChange": false,
+  "beforeStages": [],
+  "afterStages": [],
+  "labels": [
+    { "name": "framework", "value": "wdio" },
+    { "name": "language", "value": "javascript" },
+    { "name": "thread", "value": "0-29" },
+    { "name": "suite", "value": "Should open Clasificaciones page and check" },
+    {
+      "name": "testClass",
+      "value": "Should open Clasificaciones page and check"
+    },
+    {
+      "name": "testMethod",
+      "value": "Temporadas dropdown each element text corresponds '2018/2019'"
+    },
+    {
+      "name": "package",
+      "value": "Should open Clasificaciones page and check"
+    },
+    { "name": "resultFormat", "value": "allure1" }
+  ],
+  "parameters": [{ "name": "browser", "value": "chrome-107.0.5304.107" }],
+  "links": [],
+  "hidden": false,
+  "retry": false,
+  "extra": {
+    "severity": "normal",
+    "retries": [],
+    "categories": [],
+    "tags": []
+  },
+  "source": "df9f219f66f304ae.json",
+  "parameterValues": ["chrome-107.0.5304.107"]
+}

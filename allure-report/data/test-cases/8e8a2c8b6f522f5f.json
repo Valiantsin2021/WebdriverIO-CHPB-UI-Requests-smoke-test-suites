@@ -1,0 +1,52 @@
+{
+  "uid": "8e8a2c8b6f522f5f",
+  "name": "Home page open and loading progress circle is visible",
+  "fullName": "Should open https://www.chbenalmadena.com/es and check.Home page open and loading progress circle is visible",
+  "historyId": "3099ddf9d48d2cabb13eedacaa512b3f",
+  "time": { "start": 1668637615351, "stop": 1668637617426, "duration": 2075 },
+  "description": "",
+  "descriptionHtml": "",
+  "status": "passed",
+  "flaky": false,
+  "newFailed": false,
+  "newBroken": false,
+  "newPassed": false,
+  "retriesCount": 0,
+  "retriesStatusChange": false,
+  "beforeStages": [],
+  "afterStages": [],
+  "labels": [
+    { "name": "framework", "value": "wdio" },
+    { "name": "language", "value": "javascript" },
+    { "name": "thread", "value": "0-0" },
+    {
+      "name": "suite",
+      "value": "Should open https://www.chbenalmadena.com/es and check"
+    },
+    {
+      "name": "testClass",
+      "value": "Should open https://www.chbenalmadena.com/es and check"
+    },
+    {
+      "name": "testMethod",
+      "value": "Home page open and loading progress circle is visible"
+    },
+    {
+      "name": "package",
+      "value": "Should open https://www.chbenalmadena.com/es and check"
+    },
+    { "name": "resultFormat", "value": "allure1" }
+  ],
+  "parameters": [{ "name": "browser", "value": "chrome-107.0.5304.107" }],
+  "links": [],
+  "hidden": false,
+  "retry": false,
+  "extra": {
+    "severity": "normal",
+    "retries": [],
+    "categories": [],
+    "tags": []
+  },
+  "source": "8e8a2c8b6f522f5f.json",
+  "parameterValues": ["chrome-107.0.5304.107"]
+}

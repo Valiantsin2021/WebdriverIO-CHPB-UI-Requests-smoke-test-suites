@@ -1,0 +1,46 @@
+{
+  "uid": "4ac0fc2af4b6e80c",
+  "name": "Top menu inner elements are displayed",
+  "fullName": "Should open Clasificaciones page and check.Top menu inner elements are displayed",
+  "historyId": "6bcee02d6677054b3548894ed1e53d30",
+  "time": { "start": 1668636796007, "stop": 1668636796340, "duration": 333 },
+  "description": "",
+  "descriptionHtml": "",
+  "status": "passed",
+  "flaky": false,
+  "newFailed": false,
+  "newBroken": false,
+  "newPassed": false,
+  "retriesCount": 0,
+  "retriesStatusChange": false,
+  "beforeStages": [],
+  "afterStages": [],
+  "labels": [
+    { "name": "framework", "value": "wdio" },
+    { "name": "language", "value": "javascript" },
+    { "name": "thread", "value": "0-29" },
+    { "name": "suite", "value": "Should open Clasificaciones page and check" },
+    {
+      "name": "testClass",
+      "value": "Should open Clasificaciones page and check"
+    },
+    { "name": "testMethod", "value": "Top menu inner elements are displayed" },
+    {
+      "name": "package",
+      "value": "Should open Clasificaciones page and check"
+    },
+    { "name": "resultFormat", "value": "allure1" }
+  ],
+  "parameters": [{ "name": "browser", "value": "chrome-107.0.5304.107" }],
+  "links": [],
+  "hidden": false,
+  "retry": false,
+  "extra": {
+    "severity": "normal",
+    "retries": [],
+    "categories": [],
+    "tags": []
+  },
+  "source": "4ac0fc2af4b6e80c.json",
+  "parameterValues": ["chrome-107.0.5304.107"]
+}

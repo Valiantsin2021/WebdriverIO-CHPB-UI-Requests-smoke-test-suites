@@ -1,0 +1,49 @@
+{
+  "uid": "6f15f908d8254e1",
+  "name": "Equipos dropdown each element text corresponds 'Infantil Femenino'",
+  "fullName": "Should open Clasificaciones page and check.Equipos dropdown each element text corresponds 'Infantil Femenino'",
+  "historyId": "8bf050d2f2d28a0b461619afdef1af45",
+  "time": { "start": 1668636799180, "stop": 1668636799213, "duration": 33 },
+  "description": "",
+  "descriptionHtml": "",
+  "status": "passed",
+  "flaky": false,
+  "newFailed": false,
+  "newBroken": false,
+  "newPassed": false,
+  "retriesCount": 0,
+  "retriesStatusChange": false,
+  "beforeStages": [],
+  "afterStages": [],
+  "labels": [
+    { "name": "framework", "value": "wdio" },
+    { "name": "language", "value": "javascript" },
+    { "name": "thread", "value": "0-29" },
+    { "name": "suite", "value": "Should open Clasificaciones page and check" },
+    {
+      "name": "testClass",
+      "value": "Should open Clasificaciones page and check"
+    },
+    {
+      "name": "testMethod",
+      "value": "Equipos dropdown each element text corresponds 'Infantil Femenino'"
+    },
+    {
+      "name": "package",
+      "value": "Should open Clasificaciones page and check"
+    },
+    { "name": "resultFormat", "value": "allure1" }
+  ],
+  "parameters": [{ "name": "browser", "value": "chrome-107.0.5304.107" }],
+  "links": [],
+  "hidden": false,
+  "retry": false,
+  "extra": {
+    "severity": "normal",
+    "retries": [],
+    "categories": [],
+    "tags": []
+  },
+  "source": "6f15f908d8254e1.json",
+  "parameterValues": ["chrome-107.0.5304.107"]
+}

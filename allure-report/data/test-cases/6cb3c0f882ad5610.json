@@ -1,0 +1,40 @@
+{
+  "uid": "6cb3c0f882ad5610",
+  "name": "Top menu elements are displayed",
+  "fullName": "Should open Alquiler page and check.Top menu elements are displayed",
+  "historyId": "3968ebb02335ab75a65aef2ad96d5aa6",
+  "time": { "start": 1668636737223, "stop": 1668636737360, "duration": 137 },
+  "description": "",
+  "descriptionHtml": "",
+  "status": "passed",
+  "flaky": false,
+  "newFailed": false,
+  "newBroken": false,
+  "newPassed": false,
+  "retriesCount": 0,
+  "retriesStatusChange": false,
+  "beforeStages": [],
+  "afterStages": [],
+  "labels": [
+    { "name": "framework", "value": "wdio" },
+    { "name": "language", "value": "javascript" },
+    { "name": "thread", "value": "0-26" },
+    { "name": "suite", "value": "Should open Alquiler page and check" },
+    { "name": "testClass", "value": "Should open Alquiler page and check" },
+    { "name": "testMethod", "value": "Top menu elements are displayed" },
+    { "name": "package", "value": "Should open Alquiler page and check" },
+    { "name": "resultFormat", "value": "allure1" }
+  ],
+  "parameters": [{ "name": "browser", "value": "chrome-107.0.5304.107" }],
+  "links": [],
+  "hidden": false,
+  "retry": false,
+  "extra": {
+    "severity": "normal",
+    "retries": [],
+    "categories": [],
+    "tags": []
+  },
+  "source": "6cb3c0f882ad5610.json",
+  "parameterValues": ["chrome-107.0.5304.107"]
+}

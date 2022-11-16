@@ -1,0 +1,49 @@
+{
+  "uid": "b9f17923c9a1ce83",
+  "name": "Collect Albumes images 'src' attributes and perform HTTP 'GET' requests on them validating the status code is 200",
+  "fullName": "Should check broken links on Albumes page .Collect Albumes images 'src' attributes and perform HTTP 'GET' requests on them validating the status code is 200",
+  "historyId": "f2449abaf394e9274a6194e51bbc708f",
+  "time": { "start": 1668636317976, "stop": 1668636332534, "duration": 14558 },
+  "description": "",
+  "descriptionHtml": "",
+  "status": "passed",
+  "flaky": false,
+  "newFailed": false,
+  "newBroken": false,
+  "newPassed": false,
+  "retriesCount": 0,
+  "retriesStatusChange": false,
+  "beforeStages": [],
+  "afterStages": [],
+  "labels": [
+    { "name": "framework", "value": "wdio" },
+    { "name": "language", "value": "javascript" },
+    { "name": "thread", "value": "0-0" },
+    { "name": "suite", "value": "Should check broken links on Albumes page " },
+    {
+      "name": "testClass",
+      "value": "Should check broken links on Albumes page "
+    },
+    {
+      "name": "testMethod",
+      "value": "Collect Albumes images 'src' attributes and perform HTTP 'GET' requests on them validating the status code is 200"
+    },
+    {
+      "name": "package",
+      "value": "Should check broken links on Albumes page "
+    },
+    { "name": "resultFormat", "value": "allure1" }
+  ],
+  "parameters": [{ "name": "browser", "value": "chrome-107.0.5304.107" }],
+  "links": [],
+  "hidden": false,
+  "retry": false,
+  "extra": {
+    "severity": "normal",
+    "retries": [],
+    "categories": [],
+    "tags": []
+  },
+  "source": "b9f17923c9a1ce83.json",
+  "parameterValues": ["chrome-107.0.5304.107"]
+}

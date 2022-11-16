@@ -1,0 +1,43 @@
+{
+  "uid": "d62ea03450615f6d",
+  "name": "Main text each element's text corresponds 'de 9:00 a 13:00 y de 16:00 a 23:00'",
+  "fullName": "Should open Alquiler page and check.Main text each element's text corresponds 'de 9:00 a 13:00 y de 16:00 a 23:00'",
+  "historyId": "691e2c0e090458e2197c4fbdc4620227",
+  "time": { "start": 1668636739939, "stop": 1668636739974, "duration": 35 },
+  "description": "",
+  "descriptionHtml": "",
+  "status": "passed",
+  "flaky": false,
+  "newFailed": false,
+  "newBroken": false,
+  "newPassed": false,
+  "retriesCount": 0,
+  "retriesStatusChange": false,
+  "beforeStages": [],
+  "afterStages": [],
+  "labels": [
+    { "name": "framework", "value": "wdio" },
+    { "name": "language", "value": "javascript" },
+    { "name": "thread", "value": "0-26" },
+    { "name": "suite", "value": "Should open Alquiler page and check" },
+    { "name": "testClass", "value": "Should open Alquiler page and check" },
+    {
+      "name": "testMethod",
+      "value": "Main text each element's text corresponds 'de 9:00 a 13:00 y de 16:00 a 23:00'"
+    },
+    { "name": "package", "value": "Should open Alquiler page and check" },
+    { "name": "resultFormat", "value": "allure1" }
+  ],
+  "parameters": [{ "name": "browser", "value": "chrome-107.0.5304.107" }],
+  "links": [],
+  "hidden": false,
+  "retry": false,
+  "extra": {
+    "severity": "normal",
+    "retries": [],
+    "categories": [],
+    "tags": []
+  },
+  "source": "d62ea03450615f6d.json",
+  "parameterValues": ["chrome-107.0.5304.107"]
+}

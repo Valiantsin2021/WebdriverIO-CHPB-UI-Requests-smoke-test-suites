@@ -54,6 +54,7 @@ async function checkLinks(links, baseUrl = '') {
     if (url.startsWith('/')) {
       try {
         const response = await axios.get(baseUrl + url)
+        await browser.pause(500)
         expectChai(await response.status).to.eq(200)
         console.info(
           `url ${baseUrl}${url} status code is ${await response.status}`
@@ -64,6 +65,7 @@ async function checkLinks(links, baseUrl = '') {
     } else {
       try {
         const response = await axios.get(url)
+        await browser.pause(500)
         expectChai(await response.status).to.eq(200)
         console.info(`url ${url} status code is ${await response.status}`)
       } catch (e) {

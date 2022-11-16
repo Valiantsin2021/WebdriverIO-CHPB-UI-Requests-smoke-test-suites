@@ -1,0 +1,49 @@
+{
+  "uid": "85e8cc128022e05b",
+  "name": "Top menu each inner dropdown element's text corresponds 'Contacto'",
+  "fullName": "Should open Clasificaciones page and check.Top menu each inner dropdown element's text corresponds 'Contacto'",
+  "historyId": "21dbb091cb7ceef362e57b0afb5f96c8",
+  "time": { "start": 1668636796573, "stop": 1668636796619, "duration": 46 },
+  "description": "",
+  "descriptionHtml": "",
+  "status": "passed",
+  "flaky": false,
+  "newFailed": false,
+  "newBroken": false,
+  "newPassed": false,
+  "retriesCount": 0,
+  "retriesStatusChange": false,
+  "beforeStages": [],
+  "afterStages": [],
+  "labels": [
+    { "name": "framework", "value": "wdio" },
+    { "name": "language", "value": "javascript" },
+    { "name": "thread", "value": "0-29" },
+    { "name": "suite", "value": "Should open Clasificaciones page and check" },
+    {
+      "name": "testClass",
+      "value": "Should open Clasificaciones page and check"
+    },
+    {
+      "name": "testMethod",
+      "value": "Top menu each inner dropdown element's text corresponds 'Contacto'"
+    },
+    {
+      "name": "package",
+      "value": "Should open Clasificaciones page and check"
+    },
+    { "name": "resultFormat", "value": "allure1" }
+  ],
+  "parameters": [{ "name": "browser", "value": "chrome-107.0.5304.107" }],
+  "links": [],
+  "hidden": false,
+  "retry": false,
+  "extra": {
+    "severity": "normal",
+    "retries": [],
+    "categories": [],
+    "tags": []
+  },
+  "source": "85e8cc128022e05b.json",
+  "parameterValues": ["chrome-107.0.5304.107"]
+}

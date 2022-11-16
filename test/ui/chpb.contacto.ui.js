@@ -87,8 +87,8 @@ describe(`Should open Contacto page and check`, async function () {
     await expect(topMenuLength).toBeElementsArrayOfSize(topMenuElementsLength)
   })
   topMenuElementsText.forEach((el, i) => {
-    it(`Top menu each element\'s text corresponds '${el}'`, async function () {
-      console.info(`Top menu each element\'s text corresponds '${el}'`)
+    it(`Top menu each element's text corresponds '${el}'`, async function () {
+      console.info(`Top menu each element's text corresponds '${el}'`)
       const topMenu = await ContactoPage.topMenuDropdownElements
       expectChai(await topMenu[i].getText()).to.eq(el)
     })
@@ -109,9 +109,9 @@ describe(`Should open Contacto page and check`, async function () {
     )
   })
   topMenuInnerElementsText.forEach((el, i) => {
-    it(`Top menu each inner dropdown element\'s text corresponds '${el}'`, async function () {
+    it(`Top menu each inner dropdown element's text corresponds '${el}'`, async function () {
       console.info(
-        `Top menu each inner dropdown element\'s text corresponds '${el}'`
+        `Top menu each inner dropdown element's text corresponds '${el}'`
       )
       const topMenuInner = await ContactoPage.topMenuInnerElements
       expectChai(await topMenuInner[i].getText()).to.eq(el)
@@ -360,10 +360,8 @@ describe(`Should open Contacto page and check`, async function () {
     })
   })
   sponsorCategoriesText.forEach((el, i) => {
-    it(`Sponsor categories each element\'s text corresponds '${el}'`, async function () {
-      console.info(
-        `Sponsor categories each element\'s text corresponds '${el}'`
-      )
+    it(`Sponsor categories each element's text corresponds '${el}'`, async function () {
+      console.info(`Sponsor categories each element's text corresponds '${el}'`)
       const sponsorCategories = await ContactoPage.sponsorsCategories
       expectChai(await sponsorCategories[i].getText()).to.eq(el)
     })

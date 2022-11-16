@@ -1,0 +1,49 @@
+{
+  "uid": "477016db9c9b438f",
+  "name": "Equipos names text corresponds 'CADETE MASCULINO'",
+  "fullName": "Should open Clasificaciones page and check.Equipos names text corresponds 'CADETE MASCULINO'",
+  "historyId": "c4292c39744e1039476e05168bf6a45b",
+  "time": { "start": 1668636799907, "stop": 1668636799940, "duration": 33 },
+  "description": "",
+  "descriptionHtml": "",
+  "status": "passed",
+  "flaky": false,
+  "newFailed": false,
+  "newBroken": false,
+  "newPassed": false,
+  "retriesCount": 0,
+  "retriesStatusChange": false,
+  "beforeStages": [],
+  "afterStages": [],
+  "labels": [
+    { "name": "framework", "value": "wdio" },
+    { "name": "language", "value": "javascript" },
+    { "name": "thread", "value": "0-29" },
+    { "name": "suite", "value": "Should open Clasificaciones page and check" },
+    {
+      "name": "testClass",
+      "value": "Should open Clasificaciones page and check"
+    },
+    {
+      "name": "testMethod",
+      "value": "Equipos names text corresponds 'CADETE MASCULINO'"
+    },
+    {
+      "name": "package",
+      "value": "Should open Clasificaciones page and check"
+    },
+    { "name": "resultFormat", "value": "allure1" }
+  ],
+  "parameters": [{ "name": "browser", "value": "chrome-107.0.5304.107" }],
+  "links": [],
+  "hidden": false,
+  "retry": false,
+  "extra": {
+    "severity": "normal",
+    "retries": [],
+    "categories": [],
+    "tags": []
+  },
+  "source": "477016db9c9b438f.json",
+  "parameterValues": ["chrome-107.0.5304.107"]
+}

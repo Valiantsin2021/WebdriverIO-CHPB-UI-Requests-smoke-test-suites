@@ -1,0 +1,52 @@
+{
+  "uid": "77d294ef245f4dac",
+  "name": "App personalizada page title is Comunicación directa",
+  "fullName": "Should open App personalizada page and check.App personalizada page title is Comunicación directa",
+  "historyId": "52ce973abc16f0449fd189b7b1aaa30d",
+  "time": { "start": 1668636752094, "stop": 1668636752133, "duration": 39 },
+  "description": "",
+  "descriptionHtml": "",
+  "status": "passed",
+  "flaky": false,
+  "newFailed": false,
+  "newBroken": false,
+  "newPassed": false,
+  "retriesCount": 0,
+  "retriesStatusChange": false,
+  "beforeStages": [],
+  "afterStages": [],
+  "labels": [
+    { "name": "framework", "value": "wdio" },
+    { "name": "language", "value": "javascript" },
+    { "name": "thread", "value": "0-27" },
+    {
+      "name": "suite",
+      "value": "Should open App personalizada page and check"
+    },
+    {
+      "name": "testClass",
+      "value": "Should open App personalizada page and check"
+    },
+    {
+      "name": "testMethod",
+      "value": "App personalizada page title is Comunicación directa"
+    },
+    {
+      "name": "package",
+      "value": "Should open App personalizada page and check"
+    },
+    { "name": "resultFormat", "value": "allure1" }
+  ],
+  "parameters": [{ "name": "browser", "value": "chrome-107.0.5304.107" }],
+  "links": [],
+  "hidden": false,
+  "retry": false,
+  "extra": {
+    "severity": "normal",
+    "retries": [],
+    "categories": [],
+    "tags": []
+  },
+  "source": "77d294ef245f4dac.json",
+  "parameterValues": ["chrome-107.0.5304.107"]
+}

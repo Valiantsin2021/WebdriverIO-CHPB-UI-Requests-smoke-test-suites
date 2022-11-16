@@ -1,0 +1,52 @@
+{
+  "uid": "301680366be91ec2",
+  "name": "Footer links text corresponds 'Configuración de cookies'",
+  "fullName": "Should open App personalizada page and check.Footer links text corresponds 'Configuración de cookies'",
+  "historyId": "549caa086e6c8f22ba63b2667c54941c",
+  "time": { "start": 1668636755177, "stop": 1668636755207, "duration": 30 },
+  "description": "",
+  "descriptionHtml": "",
+  "status": "passed",
+  "flaky": false,
+  "newFailed": false,
+  "newBroken": false,
+  "newPassed": false,
+  "retriesCount": 0,
+  "retriesStatusChange": false,
+  "beforeStages": [],
+  "afterStages": [],
+  "labels": [
+    { "name": "framework", "value": "wdio" },
+    { "name": "language", "value": "javascript" },
+    { "name": "thread", "value": "0-27" },
+    {
+      "name": "suite",
+      "value": "Should open App personalizada page and check"
+    },
+    {
+      "name": "testClass",
+      "value": "Should open App personalizada page and check"
+    },
+    {
+      "name": "testMethod",
+      "value": "Footer links text corresponds 'Configuración de cookies'"
+    },
+    {
+      "name": "package",
+      "value": "Should open App personalizada page and check"
+    },
+    { "name": "resultFormat", "value": "allure1" }
+  ],
+  "parameters": [{ "name": "browser", "value": "chrome-107.0.5304.107" }],
+  "links": [],
+  "hidden": false,
+  "retry": false,
+  "extra": {
+    "severity": "normal",
+    "retries": [],
+    "categories": [],
+    "tags": []
+  },
+  "source": "301680366be91ec2.json",
+  "parameterValues": ["chrome-107.0.5304.107"]
+}

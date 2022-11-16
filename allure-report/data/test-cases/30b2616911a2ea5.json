@@ -1,0 +1,49 @@
+{
+  "uid": "30b2616911a2ea5",
+  "name": "Equipos names text corresponds 'ALEVÍN FEMENINO'",
+  "fullName": "Should open Clasificaciones page and check.Equipos names text corresponds 'ALEVÍN FEMENINO'",
+  "historyId": "8b4c89c62ada07e73038d4a3b2bb3f06",
+  "time": { "start": 1668636800011, "stop": 1668636800046, "duration": 35 },
+  "description": "",
+  "descriptionHtml": "",
+  "status": "passed",
+  "flaky": false,
+  "newFailed": false,
+  "newBroken": false,
+  "newPassed": false,
+  "retriesCount": 0,
+  "retriesStatusChange": false,
+  "beforeStages": [],
+  "afterStages": [],
+  "labels": [
+    { "name": "framework", "value": "wdio" },
+    { "name": "language", "value": "javascript" },
+    { "name": "thread", "value": "0-29" },
+    { "name": "suite", "value": "Should open Clasificaciones page and check" },
+    {
+      "name": "testClass",
+      "value": "Should open Clasificaciones page and check"
+    },
+    {
+      "name": "testMethod",
+      "value": "Equipos names text corresponds 'ALEVÍN FEMENINO'"
+    },
+    {
+      "name": "package",
+      "value": "Should open Clasificaciones page and check"
+    },
+    { "name": "resultFormat", "value": "allure1" }
+  ],
+  "parameters": [{ "name": "browser", "value": "chrome-107.0.5304.107" }],
+  "links": [],
+  "hidden": false,
+  "retry": false,
+  "extra": {
+    "severity": "normal",
+    "retries": [],
+    "categories": [],
+    "tags": []
+  },
+  "source": "30b2616911a2ea5.json",
+  "parameterValues": ["chrome-107.0.5304.107"]
+}
