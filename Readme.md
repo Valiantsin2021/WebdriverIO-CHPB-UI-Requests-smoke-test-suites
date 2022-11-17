@@ -4,7 +4,7 @@ to run tests separately run wdio wdio.conf.js --mochaOpts.grep <myText>
 
 ## This repository purpose is to functional test automation of CHPB web app https://www.chbenalmadena.com/es
 
-## Test report page https://valiantsin2021.github.io/WebdriverIO-CHPB-UI-Requests-smoke-test-suites/
+## Test report page https://valiantsin2021.github.io/WebdriverIO-Sports-Club-Benalmadena-UI-Requests-smoke-test-suites/
 
 ## The test suites purpose is to perform the following assertions:
 
