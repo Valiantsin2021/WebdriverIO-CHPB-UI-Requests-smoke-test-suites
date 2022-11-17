@@ -4,7 +4,8 @@ const ENV = process.env.ENV
 let caps
 if (!ENV || !['chrome', 'edge', 'firefox'].includes(ENV)) {
   console.log(
-    'Starting Chrome. For other browser - please add ENV and run with\n "npm run clean && npx cross-env ENV=(chrome | edge | firefox) npm run wdio -- --suite (ui | smoke | requests)"'
+    'Starting Chrome. For other browser - please add ENV and run with\
+    "npm run clean && npx cross-env ENV=(chrome | edge | firefox) npm run wdio -- --suite (ui | smoke | requests)"'
   )
   caps = brows['chrome']
 } else {
