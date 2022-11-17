@@ -37,7 +37,6 @@ describe(`Should open Partidos page and check`, async function () {
   })
   it(`Cookies modal is displayed`, async function () {
     console.info(`Check Partidos page open and cookies modal is displayed`)
-    await expect(PartidosPage.cookiesModal).toExist()
     await PartidosPage.cookiesAcceptBtn.waitForDisplayed()
   })
   it(`Partidos page header is ${clubHeader}`, async function () {
